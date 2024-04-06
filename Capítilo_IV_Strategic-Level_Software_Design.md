@@ -56,6 +56,7 @@ Aggregate encargado del proceso de  la busqueda y alquiler del auto:
 ![](Resources/images/DDD-Images/Confirm-Order.png)
 
 Aggregate encargado del proceso de la publicación de vehículos en renta:
+
 ![](Resources/images/DDD-Images/Submit-Order-4.png)
 
 Aggregate encargado del proceso de manejo de autos del mecánico:
@@ -81,6 +82,27 @@ Ya por ultimo y despues de un analisis y discusión grupal, los siguientes boude
 ![](Resources/images/DDD-Images/Billing-Management.png)
 
 ### 4.2.3. Domain Message Flows Modeling.
+En relación a los flujos de mensajería, se eligieron los más relevantes para nuestro negocio, dejando de lado flujos generales como registro de usuario o pago de servicios.
+Se estuvieron planteando los siguientes Flujos de mensajeria:
+En primer lugar, tenemos el flujo de la creación del vehículo, el cual es clave para nuestro negocio. 
+
+![](Resources/images/DDD-Images/Create-New-Car-Successfully.png)
+
+El segundo flujo, es el que abarca el proceso de reservar un vehículo.
+
+![](Resources/images/DDD-Images/Book-Car.png)
+
+En tercer lugar, tenemos el flujo del pago de las suscripciones en este caso del dueño del vehiculo. 
+
+![](Resources/images/DDD-Images/Pay-Subscription-Lessor.png)
+
+En cuarto lugar, tenemos el flujo de seleccionar un mecánico.
+
+![](Resources/images/DDD-Images/Select-Mechanic.png)
+
+Por último, se tiene el flujo de mandar el vehículo a reparación.
+
+![](Resources/images/DDD-Images/Send-Car-Mechanic.png)
 
 ### 4.2.4. Bounded Context Canvases.
 
