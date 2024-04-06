@@ -81,7 +81,7 @@
 **Breve Pitch**  
 Estamos desarrollando una plataforma web que brindan servicio de alquiler de autos, donde personas que deseen alquilar sus autos puedan publicar anuncios y que, de esta manera, otras personas que deseen alquilarlos los puedan contactar. Atenderemos a tres segmentos objetivos. En primer lugar, personas que poseen un solo auto y deseen ponerlo en alquiler. En segundo lugar, personas que poseen dos o más autos y deseen alquilarlos. Por último, personas que desean rentar un auto. Algunos de nuestros diferenciales como startup son, brindar estadísticas sobre uso, rentabilidad y mantenimiento de los coches puestos en alquiler, variedad de precios que se adaptan al bolsillo de los clientes y variedad de modelos de autos.
 
-**Compromiso**
+**Compromiso**  
 ¿Qué te ha parecido? ¿Tienes alguna recomendación para nosotros?  
 Gracias por habernos concedido esta entrevista, tus respuestas son valiosas para nosotros.  
 Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas cuantas semanas, donde te podremos mostrarte cómo va el desarrollo de nuestra idea, donde podremos mostrarte el prototipo de nuestra aplicación y obtener retroalimentación de ti una vez más.
