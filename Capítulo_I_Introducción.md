@@ -41,3 +41,25 @@ Features
 9. Los venceremos debido a nuestra plataforma web que permite que las personas que alquilen sus autos obtengan datos estadísticos además de la seguridad de poder tener un respaldo en caso de accidentes tanto para el que lo alquila como para que lo adquiere.
 10. Mi mayor riesgo con este producto es que las personas no utilicen nuestro servicio para publicar un alquiler o rentar un auto.
 11. Resolveremos esto a través del afianzamiento de los clientes mediante promociones y descuentos.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+Descripción:	Creemos que, si ofrecemos una opción de pago seguro a través de la aplicación, los usuarios se sentirán más cómodos al alquilar un vehículo.
+Métrica:	Incremento del 20% en el número de usuarios que utilizan la función de pago en la aplicación.
+
+Descripción:	Creemos que, al ofrecer descuentos para alquileres de larga duración, los usuarios se sentirán incentivados a utilizar la aplicación con mayor frecuencia.
+Métrica:	Incremento del 15% en el número de usuarios que alquilan vehículos por un periodo mayor a 7 días.
+ 
+Descripción:	Sabremos que los usuarios confían en la calidad de los vehículos disponibles para alquilar si incluimos fotografías detalladas y reseñas de otros usuarios.
+Métrica:	Incremento del 10% en el número de usuarios que alquilan un vehículo basado en fotografías y reseñas.
+ 
+Descripción:	Creemos que, si agregamos un sistema de calificación para los arrendatarios y arrendadores, los usuarios se sentirán más cómodos al alquilar y prestar sus vehículos.
+Métrica	Incremento del 15% en el número de usuarios que alquilan o prestan vehículos a través de la aplicación.
+
+Descripción:	Creemos que, si ofrecemos un servicio de mecánica de emergencia a través de la aplicación, los usuarios estarán más dispuestos a alquilar un vehículo.
+Métrica:	Incremento del 10% en el número de usuarios que alquilan un vehículo
+
+Descripción:	Sabremos que los usuarios están satisfechos con el proceso de alquiler si les solicitamos una calificación y reseña después de cada alquiler.
+Métrica:	Incremento del 10% en el número de calificaciones y reseñas realizadas por los usuarios después de cada alquiler.
+
+Descripción:	Creemos que, si ofrecemos una opción para cancelar la reserva sin cargo dentro de un plazo de 24 horas, los usuarios estarán más dispuestos a reservar a través de la aplicación.
+Métrica:	Incremento del 15% en el número de reservas realizadas a través de la aplicación.
