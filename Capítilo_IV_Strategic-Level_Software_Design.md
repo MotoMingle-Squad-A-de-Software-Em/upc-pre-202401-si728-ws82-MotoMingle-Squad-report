@@ -105,5 +105,19 @@ Por último, se tiene el flujo de mandar el vehículo a reparación.
 ![](Resources/images/DDD-Images/Send-Car-Mechanic.png)
 
 ### 4.2.4. Bounded Context Canvases.
+De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon sus respectivos Canvases: 
+
+![](Resources/images/DDD-Images/Renting-Management-Canva.png)
+
+![](Resources/images/DDD-Images/Workshop-Service-Management-Canva.png)
+
+![](Resources/images/DDD-Images/Subscription-Management-Canva.png)
+
+![](Resources/images/DDD-Images/Security.png)
+
+![](Resources/images/DDD-Images/Billing-Management-Canva.png)
 
 ### 4.2.5. Context Mapping.
+
+![](Resources/images/DDD-Images/Context-Mapping.png)
+
