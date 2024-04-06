@@ -5,53 +5,69 @@ En cuanto al proceso de nuestro EventStorming se utilizó la herramienta MIRO, d
 ![Primer Paso de DDD](Resources/images/DDD-Images/Unstructured-Exploration.png)
 
 Seguido de lo previamente nombrado, se inició el segundo paso llamado Timelines, donde discutimos el flujo de los eventos del dominio para tener una idea mucho más clara.
+
 ![Segundo Paso de DDD](Resources/images/DDD-Images/Timelines.png)
 
 ### 4.2.2. Candidate Context Discovery.
 Para hallar a nuestros Candidate Context, continuamos con el paso 3 (Paint Points), donde discutimos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización. Algunos más importantes que hallamos fueron, por ejemplo, ¿Como sabremos la posición actual del vehículo? Y ¿cómo sabemos el estado del carro?
+
 ![Tercer Paso de DDD](Resources/images/DDD-Images/Paint-Points.png)
 
 Después, comenzamos con el cuarto paso de DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase. 
 Para el flujo de línea del arrendador se encontraron los siguientes pivotal points:
+
 ![Pivotal Points del Ownver](Resources/images/DDD-Images/Pivotal-Points-Owner.png)
 
 Para el usuario Arrendatario fueron los siguientes:
+
 ![Pivotal Points del Renter](Resources/images/DDD-Images/Pivotal-Points-Renter.png)
 
 Y para el usuario Mecanico fueron los siguientes: 
+
 ![Pivotal Points del Mechanic](Resources/images/DDD-Images/Pivotal-Points-Mechanic.png)
 
 Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.
+
 ![Quinto paso de DDD](Resources/images/DDD-Images/Commands.png)
 
 Después proseguimos con el paso 6, Policies, donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.Por ejemplo, para actualizar el estado del vehículo una vez que este alquilado.
+
 ![Sexto paso de DDD](Resources/images/DDD-Images/Polices.png)
 
 Con ello procedimos a discutir los modelos de lectura de datos, y logramos identificar algunos como el Rent, que se encarga del alquiler de vehículos. Los criterios para ello fueron complejidad, relevancia y frecuencia de actualización.
+
 ![Séptimo paso de DDD](Resources/images/DDD-Images/Read-Models.png)
 
 También empezamos a discutir el uso de sistemas externos los cuales estaban relacionados a pagos y ubicación.
+
 ![Octavo paso de DDD](Resources/images/DDD-Images/External-Systems.png)
 
 Después, se comenzó con la identificación de los agregattes, para ello, tomamos criterios como granularidad, consistencia, y estabilidad. Con esos criterios, se procedió a elegir  los Agreggattes, los cuales fueron los siguientes:
 Aggregate encargado del proceso de la publicación de vehículos en renta:
+
 ![](Resources/images/DDD-Images/Submit-Order.png)
 
 Aggregate encargado del proceso del regreso del auto:
+
 ![](Resources/images/DDD-Images/Confirm-Order-2.png)
 
 Aggregate encargado del proceso de  la busqueda y alquiler del auto:
+
 ![](Resources/images/DDD-Images/Confirm-Order.png)
 
-#Aggregate encargado del proceso de la publicación de vehículos en renta:
+Aggregate encargado del proceso de la publicación de vehículos en renta:
+![](Resources/images/DDD-Images/Submit-Order-4.png)
 
 Aggregate encargado del proceso de manejo de autos del mecánico:
+
 ![](Resources/images/DDD-Images/Submit-Order-2.png)
 
 Aggregate encargado del proceso de mantenimiento del auto:
+
 ![](Resources/images/DDD-Images/Confirm-Order-3.png)
 
 Aggregate encargado del proceso de manejo de las suscripciones:
+
 ![](Resources/images/DDD-Images/Submit-Order-3.png)
 
 Ya por ultimo y despues de un analisis y discusión grupal, los siguientes boudend contexts fueron elegidos:
