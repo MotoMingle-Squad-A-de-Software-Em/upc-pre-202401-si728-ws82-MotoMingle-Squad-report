@@ -1,3 +1,23 @@
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile.
+### 1.1.1. Descripción de la Startup.
+**Nombre del Startup**  
+MotoMingle-Squad es una compañía cuyo principal objetivo es transformar la forma de cómo se alquilan los autos en Perú y elevar la calidad de este servicio.
+
+**Descripción de la Startup**  
+MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el sector automovilístico, enfocada en mejorar la manera en cómo se alquilan y rentan autos. Tiene como filosofía el uso de las metodologías ágiles para poder ofrecer los productos y servicios con una mayor calidad y con unos costos y tiempos mucho más reducidos. Además, utilizamos Design Thinking, el cual es un método para generar ideas innovadoras, que se enfoca en la eficacia de entender y dar una solución a los problemas del usuario. Por último, en base a este punto de vista utilizamos el método de trabajo Design sprint que básicamente nos ayuda a solucionar de una manera rápida los diferentes problemas que se nos presentan.
+
+**Visión**  
+“Convertirnos en la mejor plataforma de alquiler y renta de vehículos con mayor seguridad del mercado latinoamericano en los próximos tres años.”  
+**Misión**  
+“Ser el servicio que facilite y agilice la manera de cómo se alquilan y rentan autos más usado del Perú en un año.”
+
+### 1.1.2. Perfiles de integrantes del equipo.
+#### Leonardo José Aquino Cruz
+[![leonardo.jpg](https://i.postimg.cc/PqYZ9FZb/leonardo.jpg)](https://postimg.cc/KKcRgf04)
++ Soy un estudiante de la universidad peruana de ciencias aplicadas, curso la carrera de Ingeniería de Software, estoy actualmente en el octavo ciclo. Soy una persona perseverante, responsable y creativo. Siempre apoyaré en todo lo que esté a mi alcance a mi equipo.
+
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
