@@ -63,3 +63,6 @@ Métrica:	Incremento del 10% en el número de calificaciones y reseñas realizad
 
 Descripción:	Creemos que, si ofrecemos una opción para cancelar la reserva sin cargo dentro de un plazo de 24 horas, los usuarios estarán más dispuestos a reservar a través de la aplicación.
 Métrica:	Incremento del 15% en el número de reservas realizadas a través de la aplicación.
+
+#### 1.2.2.4. Lean UX Canvas.
+![Lean UX Canvas Elaborado](Resources/images/Lean UX Canvas.png)
