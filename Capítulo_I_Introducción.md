@@ -93,3 +93,21 @@ Features
 
 #### 1.2.2.4. Lean UX Canvas.
 ![Lean UX Canvas Elaborado](Resources/images/Lean-UX-Canvas.png)
+
+## 1.3. Segmentos objetivo.
+Para la segmentación de nuestro público objetivo que desea alquilar un auto hemos seleccionado a personas de entre 18 a 70 años y que posean carnet de conducción, que suelan utilizar internet frecuentemente. Estas personas deberán presentar de manera virtual algún documento de identidad (DNI, pasaporte o carné de extranjería), licencia de conducir vigente y tarjeta de crédito para garantizar la renta.
+
+Y para la segmentación del público interesado en la renta de su(s) vehículo(s), hemos escogido a personas que cumplan con la mayoría de edad. Estas personas tendrán que cumplir con requisitos como: ITV vigente, vehículo en buen estado, tener la documentación necesaria, matrícula aprobada y por último que sea una persona física o empresa la que autoriza el alquiler.
+
+Y para la última segmentación del publico interesada en ofrecer sus servicios de mecánica, hemos escogido a mecánicas que tengan todos sus papeles en regla. Estas mecánicas tendrán que cumplir como requisitos como: inscrita como empresa, licencia de actividades y pago de impuestos.
+
+En la segmentación de mercado usamos las siguientes variables:
+
+Geográficas:  
+Por ahora, nuestro startup solo estará disponible en Perú, próximamente agregaremos más países latinoamericanos.
+
+Demográficas:  
+La información que necesitamos conocer es que superan la mayoría de edad y también debemos conocer la ocupación del usuario.
+
+Psicográficas:  
+Los usuarios deben estar buscando comodidad y seguridad al momento de transportarse por las calles de Lima.
