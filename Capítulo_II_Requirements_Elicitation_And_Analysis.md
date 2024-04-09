@@ -142,7 +142,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Resumen |
 | Luis, de 20 años, es un estudiante de 5to año de medicina. En primera instancia nos comenta que la última vez que realizó el alquiler de un auto fue hace un mes aproximadamente y que las razones por las cuales las realiza son comúnmente porque tiene alguna visita, viajes familiares o para alguna ocasión especial con su pareja. Nos comenta que el proceso de alquilar un auto no le parece complejo a pesar de que realice este proceso de manera presencial y no con una aplicación, además comenta que no ha tenido problemas con el dueño de los autos debido a que es un cliente frecuente en dicha empresa. Finalmente, comenta que le gustaría utilizar una aplicación para el proceso de alquilar un auto y que este tenga la posibilidad de realizar un filtrado de autos ya sea por número de asientos o modelos, ya que esto le ahorraría mucho tiempo a la hora de buscar un auto de acuerdo a sus características deseadas |
 
-#### 2.2.2.2 Entrevistas a personas que alquilan autos
+#### 2.2.2.2 Entrevistas a arrendadores de autos
 ##### 2.2.2.2.1. Entrevista a 
 
 #### 2.2.2.3 Entrevistas a mecánicos
@@ -161,3 +161,12 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 |Jimmy Espinoza, mecánico de 35 años con 11 años de experiencia, realiza entre 10 y 15 servicios de mecánica de autos al día en su taller. Ofrece una amplia gama de servicios, siendo el mantenimiento periódico el más común. Trabaja principalmente con autos y camionetas de diversas marcas. Le gustaría una aplicación móvil que facilite la comunicación con los clientes, permitiendo programar citas, enviar fotos y videos para mostrar evidencias de los cambios de repuestos y del estado en que se encontró el repuesto dañado, y recibir actualizaciones sobre el progreso de los trabajos. Utiliza principalmente WhatsApp, Facebook e Instagram, y frecuenta aplicaciones como Netflix y YouTube en su dispositivo Android. Además, utiliza Google como buscador con frecuencia. |
 
 ### 2.2.3. Análisis de entrevistas.
+
+## 2.3 Needfinding
+###  2.3.1 User Personas
+Los User Persona se realizaron con el objetivo de definir los arquetipos que representan de forma ficticia los diferentes tipos de usuarios que pueden interactuar con nuestro servicio. A continuación, procederemos a mostrar los User Persona que pudimos extraer en base a un análisis de las entrevistas realizadas anteriormente.
+
+Segmento: Dueños de autos que desean  alquilar su vehículo temporalmente.
+<p align="center">
+  <img src="Resources/images/User1.png" alt="User Arrendatario">
+</p>
