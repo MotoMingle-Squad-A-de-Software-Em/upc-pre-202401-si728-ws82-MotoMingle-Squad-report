@@ -16,7 +16,7 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 ### 1.1.2. Perfiles de integrantes del equipo.
 
 #### Yeni Fiorella Alvarado Mejía
-![Yeni](Resources/images/Yeni(2).jpeg)
+![Yeni(2).jpeg](Resources/images/Yeni(2).jpeg)
 
 + Soy estudiante de ingeniería de software en octavo ciclo, tengo experiencia en el desarrollo de aplicaciones web y móviles. Soy empática, colaborativa y estoy comprometida con el aprendizaje continuo. Mi capacidad para trabajar en equipo es una de mis principales fortalezas.
 
