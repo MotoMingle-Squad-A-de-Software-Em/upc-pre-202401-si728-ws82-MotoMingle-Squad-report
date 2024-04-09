@@ -8,7 +8,7 @@ Momondo
 
 Momondo es una web app que permite el alquiler de vehículos durante ciertos días que el usuario puede elegir. También esta aplicación web muestra los precios de algunos vehículos disponibles para alquilar. Y el pago es por día. Esta aplicación web posee varias sucursales y se entrega el vehículo en algunas de ellas. 
 <p align="center">
-  <img src="Resources/images/momondo.png" alt="Momondo">
+  <img src="Resources/images/momondo.jpeg" alt="Momondo">
 </p>
 
 Budgetperu 
