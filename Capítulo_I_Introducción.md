@@ -14,9 +14,46 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 “Ser el servicio que facilite y agilice la manera de cómo se alquilan y rentan autos más usado del Perú en un año.”
 
 ### 1.1.2. Perfiles de integrantes del equipo.
+
 #### Leonardo José Aquino Cruz
 [![leonardo.jpg](https://i.postimg.cc/PqYZ9FZb/leonardo.jpg)](https://postimg.cc/KKcRgf04)
 + Soy un estudiante de la universidad peruana de ciencias aplicadas, curso la carrera de Ingeniería de Software, estoy actualmente en el octavo ciclo. Soy una persona perseverante, responsable y creativo. Siempre apoyaré en todo lo que esté a mi alcance a mi equipo.
+
+## 1.2. Solution Profile.
+### 1.2.1 Antecedentes y problemática.
+Durante la pandemia, muchas personas se vieron afectadas económicamente al perder sus trabajos, lo que generó una mayor demanda en el negocio de alquiler de automóviles. Esta situación reveló una necesidad latente: la protección tanto para los arrendadores como para los arrendatarios frente a posibles desperfectos en los vehículos. Se ha observado que los clientes, en ocasiones, no cuidan adecuadamente los automóviles alquilados, lo que resulta en costosas reparaciones para los propietarios.
+
+En respuesta a este problema, ofrecemos el servicio de alquiler de autos, donde la suscripción anual puede incluir un seguro vehicular que cubra los gastos de reparación y mantenimiento del vehículo en caso de accidentes. Esta solución integral brindaría cobertura tanto para los arrendadores como para los arrendatarios, permitiéndoles afrontar los gastos de reparación en caso de accidentes. Además, esta solución beneficiaría a los mecánicos, quienes podrían ofrecer sus servicios a través de la aplicación, generando así un ingreso adicional por las reparaciones de los vehículos alquilados en caso de accidentes.
+
+La técnica de las 5 W's y 2 H's 
+
+What (¿Qué?) 
+
+El modelo de negocio de que se plantea es brindar un seguro vehicular a través de subscripciones. Pues se han presentado múltiples casos donde al alquilar el vehículo a una persona de no mucho conocimiento, estas suelen estropear el vehículo lo que causa inconvenientes entre el alquilador y el arrendatario.  
+
+When (¿Cuándo?) 
+
+El problema sucede cuando un arrendador no recibe las reparaciones por el daño ocasionado, o cuando el alquilador no puede solventar el costo del daño que ocasiono al vehiculo. 
+
+Where (¿Dónde?) 
+
+Este problema sucede en distintos lugares de lima y Perú. 
+
+Who (¿Quién?)  
+
+Los más afectados son las personas que rentan los vehículos, pues quedan con su herramienta de trabajo estropeada, lo que le genera inconvenientes económicos. 
+
+Why (¿Por qué?) 
+
+El problema sucede porque las personas que alquilan los vehículos no toman en cuentan con los cuidados necesarios y terminan deñando severamente el vehiculo. 
+
+How (¿Cómo?) 
+
+El problema es más recurrente cuando no hay un buen control de la persona que quiere alquilar el vehículo. 
+
+How Much (¿Cuánto?) 
+
+Según la SUTRAN, del 2020 al 2021 hubo una reducción de accidentes de tránsito en un 13.59%. Esto debido a la cuarentena obligatoria. Pero, aun así, según las estadísticas el 35% de participación en los accidentes es de auto y pick up service. 
 
 ### 1.2.2 Lean UX Process.
 
