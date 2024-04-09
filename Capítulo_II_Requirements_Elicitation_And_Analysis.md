@@ -170,3 +170,13 @@ Segmento: Dueños de autos que desean  alquilar su vehículo temporalmente.
 <p align="center">
   <img src="Resources/images/User1.png" alt="User Arrendatario">
 </p>
+
+Segmento: Personas que alquilan autos
+<p align="center">
+<img src="Resources/images/User2.png" alt="User Arrendador">
+</p>
+
+Segmento: Personas que ofrecen servicios de mecánica
+<p align="align="center">
+<img src="Resources/images/User3.png" alt="User Mechanic">
+</p>
