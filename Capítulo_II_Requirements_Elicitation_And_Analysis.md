@@ -157,7 +157,6 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Ocupación: Mecánico|
 | Distrito de residencia: Los Olivos, Lima |
 | Duración:  |
-
 | Resumen |
 |Jimmy Espinoza, mecánico de 35 años con 11 años de experiencia, realiza entre 10 y 15 servicios de mecánica de autos al día en su taller. Ofrece una amplia gama de servicios, siendo el mantenimiento periódico el más común. Trabaja principalmente con autos y camionetas de diversas marcas. Le gustaría una aplicación móvil que facilite la comunicación con los clientes, permitiendo programar citas, enviar fotos y videos para mostrar evidencias de los cambios de repuestos y del estado en que se encontró el repuesto dañado, y recibir actualizaciones sobre el progreso de los trabajos. Utiliza principalmente WhatsApp, Facebook e Instagram, y frecuenta aplicaciones como Netflix y YouTube en su dispositivo Android. Además, utiliza Google como buscador con frecuencia. |
 
