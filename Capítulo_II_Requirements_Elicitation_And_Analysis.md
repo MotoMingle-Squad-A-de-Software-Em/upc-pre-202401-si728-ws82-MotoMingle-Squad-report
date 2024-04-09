@@ -7,14 +7,23 @@ En esta sección presentamos algunas compañías dentro de nuestro país que ofr
 Momondo 
 
 Momondo es una web app que permite el alquiler de vehículos durante ciertos días que el usuario puede elegir. También esta aplicación web muestra los precios de algunos vehículos disponibles para alquilar. Y el pago es por día. Esta aplicación web posee varias sucursales y se entrega el vehículo en algunas de ellas. 
+<p align="center">
+  <img src="Resources/images/momondo.png" alt="Momondo">
+</p>
 
 Budgetperu 
 
 Esta empresa de alquiler ofrece un alquiler de vehículo cumpliendo con los protocolos en bioseguridad. Además, esta aplicación web solamente acepta tarjetas de crédito. La entrega y devolución del vehículo es en el aeropuerto Jorge Chávez o alguna de sus sedes de budgetperu. Hay descuentos por temporada. Y tienen carros para diferentes servicios que se acomodan a lo que necesite el usuario. 
+<p align="center">
+  <img src="Resources/images/budget.png" alt="Budget">
+</p>
 
 Kayak 
 
 Esta aplicación web tiene sólo una sede de entrega en Lima. Tiene una sección de mejoras tarifas de los vehículos para los usuarios de Kayak en los últimos meses. Además, muestra los precios de los vehículos disponibles para alquilar y las características de cada vehículo.  
+<p align="center">
+  <img src="Resources/images/kayak1.png" alt="kayak">
+</p>
 
 ### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
