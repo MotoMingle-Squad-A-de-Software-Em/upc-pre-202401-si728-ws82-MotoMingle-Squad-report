@@ -123,7 +123,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Edad: 28 años |
 | Distrito de residencia: San Miguel, Lima |
 | Duración: 6 minutos 28 segundos |
-| ![](https://youtu.be/_Ldd96aWTZY) |
+| [![Alt text](https://img.youtube.com/vi/_Ldd96aWTZY/0.jpg)](https://www.youtube.com/watch?v=_Ldd96aWTZY) |
 | Resumen |
 | Eduardo, de 28 años, nos comenta que es dueño de una empresa arrendadora de autos, el proceso que un cliente realiza se basa en un contrato el cuál nos comenta que hace que el cliente deba devolver el auto tal cual se lo entrega y de esta manera asegurar que el cliente pague si sucede un accidente. El entrevistado tiene un estacionamiento propio para guardar sus autos, además comenta que los precios de los autos están entre 150 a 300 nuevos soles. Considera que el proceso no es tan complicado desde su punto de vista. Nos comenta que utiliza aplicaciones como facebook e instagram para publicitar su negocio y que cree que realizando una mejor publicidad de su negocio ganaría más clientes. En cuanto al mantenimiento, el mismo realiza una revisión a los autos cada tres meses y cada seis los lleva a que reciban su mantenimiento respectivo el cuál tiene un costo aproxixmado de 300 nuevos soles por auto. En última instancia nos comenta que tiene preferencia por la plataforma de apple. |
 
@@ -138,7 +138,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Edad: 20 años |
 | Distrito de residencia: Pueblo Libre, Lima |
 | Duración: 3 minutos 11 segundos |
-| ![](https://youtu.be/v17mgEArteE) |
+| [![Alt text](https://img.youtube.com/vi/v17mgEArteE/0.jpg)](https://www.youtube.com/watch?v=v17mgEArteE) |
 | Resumen |
 | Luis, de 20 años, es un estudiante de 5to año de medicina. En primera instancia nos comenta que la última vez que realizó el alquiler de un auto fue hace un mes aproximadamente y que las razones por las cuales las realiza son comúnmente porque tiene alguna visita, viajes familiares o para alguna ocasión especial con su pareja. Nos comenta que el proceso de alquilar un auto no le parece complejo a pesar de que realice este proceso de manera presencial y no con una aplicación, además comenta que no ha tenido problemas con el dueño de los autos debido a que es un cliente frecuente en dicha empresa. Finalmente, comenta que le gustaría utilizar una aplicación para el proceso de alquilar un auto y que este tenga la posibilidad de realizar un filtrado de autos ya sea por número de asientos o modelos, ya que esto le ahorraría mucho tiempo a la hora de buscar un auto de acuerdo a sus características deseadas |
 
