@@ -116,7 +116,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 ##### 2.2.2.1.1. Entrevista a Eduardo Burga Gonzales
 
 | Eduardo Burga Gonzales |
-|-------------|
+|:-------------:|
 | Información |
 | Nombres: Eduardo |
 | Apellidos: Burga Gonzales |
@@ -131,7 +131,7 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 ##### 2.2.2.2.1. Entrevista a Luis Carlos Enrique Rodríguez Gomez
 
 | Luis Carlos Enrique Rodríguez Gomez |
-|-------------|
+|:-------------:|
 | Información |
 | Nombres: Luis Carlos Enrique |
 | Apellidos: Rodríguez Gomez |
