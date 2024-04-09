@@ -102,4 +102,20 @@ Gracias por habernos concedido esta entrevista, tus respuestas son valiosas para
 Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas cuantas semanas, donde te podremos mostrarte cómo va el desarrollo de nuestra idea, donde podremos mostrarte el prototipo de nuestra aplicación y obtener retroalimentación de ti una vez más.
 
 ### 2.2.2. Registro de entrevistas.
+
+#### 2.2.2.1 Entrevistas a arrendadores de autos
+##### 2.2.2.1.1. Entrevista a Eduardo Burga Gonzales
+
+| Eduardo Burga Gonzales |
+|-------------|
+| Información |
+| Nombres: Eduardo |
+| Apellidos: Burga Gonzales |
+| Edad: 28 años |
+| Distrito de residencia: San Miguel, Lima |
+| Duración: 6 minutos 28 segundos |
+| ![](https://youtu.be/_Ldd96aWTZY) |
+| Resumen |
+| Eduardo, de 28 años, nos comenta que es dueño de una empresa arrendadora de autos, el proceso que un cliente realiza se basa en un contrato el cuál nos comenta que hace que el cliente deba devolver el auto tal cual se lo entrega y de esta manera asegurar que el cliente pague si sucede un accidente. El entrevistado tiene un estacionamiento propio para guardar sus autos, además comenta que los precios de los autos están entre 150 a 300 nuevos soles. Considera que el proceso no es tan complicado desde su punto de vista. Nos comenta que utiliza aplicaciones como facebook e instagram para publicitar su negocio y que cree que realizando una mejor publicidad de su negocio ganaría más clientes. En cuanto al mantenimiento, el mismo realiza una revisión a los autos cada tres meses y cada seis los lleva a que reciban su mantenimiento respectivo el cuál tiene un costo aproxixmado de 300 nuevos soles por auto. En última instancia nos comenta que tiene preferencia por la plataforma de apple. |
+
 ### 2.2.3. Análisis de entrevistas.
