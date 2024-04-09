@@ -177,6 +177,12 @@ Segmento: Personas que alquilan autos
 </p>
 
 Segmento: Personas que ofrecen servicios de mecánica
-<p align="align="center">
+<p align="center">
 <img src="Resources/images/User3.png" alt="User Mechanic">
 </p>
+
+###  2.3.2 User Task Matrix
+Para elaborar la Matriz de Tareas del Usuario, se tuvieron en cuenta los tres segmentos principales a los que va dirigido nuestro producto.
+
+![Task Matrix](Resources/images/task.png)
+
