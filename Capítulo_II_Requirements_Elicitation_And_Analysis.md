@@ -165,9 +165,10 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Apellidos: Zegarra García |
 | Edad: 29 años |
 | Distrito de residencia: San Juan de Lurigancho, Lima |
-| Duración: 3 minutos 11 segundos |
+| Duración: 9 minutos 43 segundos |
 | [![Alt text](https://img.youtube.com/vi/sNGgPrsvYlg/0.jpg)](https://youtu.be/sNGgPrsvYlg) |
 | Resumen |
+| Oscar, de 29 años, nos comenta que alquiló un auto hace 2 años y el proceso fue que tuvo que ver entre todos los autos que se alquilaban, tanto el modelo y tenía que escuchar las reglas y entregar los documentos respectivos que pedían. También nos opina que su manera de elegir un carro sería dependiendo de la situación, en otras palabras, para que evento vas a alquilar. Él dice que lo engorroso fue en el tema de los documentos, pero entiende porque se pide tanto, y él dice que se puede solucionar si se automatiza. Usualmente el va solo y alquila para ir a su trabajo, y en su tiempo que alquilaba un auto, nunca sufrió ningún accidente, pero es inevitable que a veces suceda un accidente, pero leve. Al final nos comenta que si existiera una aplicación que automatice el alquiler, él lo usaría. |
 
 #### 2.2.2.3 Entrevistas a mecánicos
 ##### 2.2.2.3.1. Entrevista a Jimmy Espinoza Rodriguez
