@@ -127,6 +127,20 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Resumen |
 | Eduardo, de 28 años, nos comenta que es dueño de una empresa arrendadora de autos, el proceso que un cliente realiza se basa en un contrato el cuál nos comenta que hace que el cliente deba devolver el auto tal cual se lo entrega y de esta manera asegurar que el cliente pague si sucede un accidente. El entrevistado tiene un estacionamiento propio para guardar sus autos, además comenta que los precios de los autos están entre 150 a 300 nuevos soles. Considera que el proceso no es tan complicado desde su punto de vista. Nos comenta que utiliza aplicaciones como facebook e instagram para publicitar su negocio y que cree que realizando una mejor publicidad de su negocio ganaría más clientes. En cuanto al mantenimiento, el mismo realiza una revisión a los autos cada tres meses y cada seis los lleva a que reciban su mantenimiento respectivo el cuál tiene un costo aproxixmado de 300 nuevos soles por auto. En última instancia nos comenta que tiene preferencia por la plataforma de apple. |
 
+#### 2.2.2.1.2. Entrevista a Florentino Josué Carrasco Hernández
+
+| Florentino Josué Carrasco Hernández |
+|:-------------:|
+| Información |
+| Nombres: Florentino Josué |
+| Apellidos: Carrasco Hernández |
+| Edad: 21 años |
+| Distrito de residencia: Callao, Lima |
+| Duración: 5 minutos 59 segundos |
+| [![Alt text](https://img.youtube.com/vi/sYMdBdMQ6Ho/0.jpg)](https://youtu.be/sYMdBdMQ6Ho) |
+| Resumen |
+| Florentino, de 21 años, nos comenta que alquila su auto alrededor de 15 dias al mes y que se contacta con él por medio de WhatsApp como también acordar las fechas y las reglas que tiene que seguir. El costo para que alquilen sus autos es de 70 soles y nos comenta que solicita un depósito de seguridad y que se rembolsa al finalizar el alquiler y el auto se devuelve en las mismas condiciones que se recibió. También nos comenta que promociona el alquiler de su auto actualmente en Facebook y algunos grupos cerrados y de confianza. Y opina que el proceso de alquiler de autos es muy engorroso y que está de acuerdo que exista alguna aplicación que ayude a simplificarlo. Él lleva su auto a mantenimiento cada 2 o 3 meses y gasta aproximadamente 200 soles. |
+
 #### 2.2.2.2. Entrevistas a arrendatarios de autos
 ##### 2.2.2.2.1. Entrevista a Luis Carlos Enrique Rodríguez Gomez
 
@@ -142,8 +156,18 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 | Resumen |
 | Luis, de 20 años, es un estudiante de 5to año de medicina. En primera instancia nos comenta que la última vez que realizó el alquiler de un auto fue hace un mes aproximadamente y que las razones por las cuales las realiza son comúnmente porque tiene alguna visita, viajes familiares o para alguna ocasión especial con su pareja. Nos comenta que el proceso de alquilar un auto no le parece complejo a pesar de que realice este proceso de manera presencial y no con una aplicación, además comenta que no ha tenido problemas con el dueño de los autos debido a que es un cliente frecuente en dicha empresa. Finalmente, comenta que le gustaría utilizar una aplicación para el proceso de alquilar un auto y que este tenga la posibilidad de realizar un filtrado de autos ya sea por número de asientos o modelos, ya que esto le ahorraría mucho tiempo a la hora de buscar un auto de acuerdo a sus características deseadas |
 
-#### 2.2.2.2 Entrevistas a arrendadores de autos
-##### 2.2.2.2.1. Entrevista a 
+##### 2.2.2.2.2. Entrevista a Oscar Zegarra García
+
+| Oscar Zegarra García |
+|:-------------:|
+| Información |
+| Nombres: Oscar |
+| Apellidos: Zegarra García |
+| Edad: 29 años |
+| Distrito de residencia: San Juan de Lurigancho, Lima |
+| Duración: 3 minutos 11 segundos |
+| [![Alt text](https://img.youtube.com/vi/sNGgPrsvYlg/0.jpg)](https://youtu.be/sNGgPrsvYlg) |
+| Resumen |
 
 #### 2.2.2.3 Entrevistas a mecánicos
 ##### 2.2.2.3.1. Entrevista a Jimmy Espinoza Rodriguez
