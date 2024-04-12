@@ -180,6 +180,62 @@ Como último punto, nos gustaría pedirte una reunión otra vez de aquí a unas 
 |Jimmy Espinoza, mecánico de 35 años con 11 años de experiencia, realiza entre 10 y 15 servicios de mecánica de autos al día en su taller. Ofrece una amplia gama de servicios, siendo el mantenimiento periódico el más común. Trabaja principalmente con autos y camionetas de diversas marcas. Le gustaría una aplicación móvil que facilite la comunicación con los clientes, permitiendo programar citas, enviar fotos y videos para mostrar evidencias de los cambios de repuestos y del estado en que se encontró el repuesto dañado, y recibir actualizaciones sobre el progreso de los trabajos. Utiliza principalmente WhatsApp, Facebook e Instagram, y frecuenta aplicaciones como Netflix y YouTube en su dispositivo Android. Además, utiliza Google como buscador con frecuencia. |
 
 ### 2.2.3. Análisis de entrevistas.
+**Segmento: Dueños que desean alquilar sus autos**
+
+Todos los dueños alquilan sus autos más de 20 días dejando los días restantes del mes para realizar mantenimiento a sus vehículos.  
+[![image.png](https://i.postimg.cc/1txhrhr0/image.png)](https://postimg.cc/NyxzQnVL)
+
+Dos dueños alquilan sus autos a personas extrañas usando un filtro personalizado que depende del arrendatario. Mientras que el restante solo alquila personas de confianza como familiares, amistades o vecinos.  
+[![image.png](https://i.postimg.cc/vH8RzvfK/image.png)](https://postimg.cc/YjPy2YXN)
+
+Dos de los dueños de autos usan un contrato por daños, las cláusulas y formas suelen depender de cada contrato. Mientras que el restante por daños al auto usa otro método, como es el caso de un abono de seguro que se reembolsara al arrendado si no hay daños en el auto.  
+[![image.png](https://i.postimg.cc/TwjSjywG/image.png)](https://postimg.cc/vgB3bZfS)
+
+Dos de los dueños de autos utilizan WhatsApp para comunicarse, y solo uno utiliza Telegram.  
+[![image.png](https://i.postimg.cc/5ynRGZLR/image.png)](https://postimg.cc/kRRsRYjQ)
+
+Utilizan en su mayoría Google para informarse y solo un entrevistado menciono que utiliza Twiter  
+[![image.png](https://i.postimg.cc/HskK5kCD/image.png)](https://postimg.cc/nMN0fZz0)
+
+Entre las aplicaciones que utilizan para distraerse encontramos que la aplicación preferida es Facebook e Instagram.  
+[![image.png](https://i.postimg.cc/hPZY0RSJ/image.png)](https://postimg.cc/CzDJFtnY)
+
+La mayoría de los entrevistados del segmento dueños de un vehiculo utilizan el sistema operativo Android, solo uno utiliza y prefiere el sistema operativo Apple.  
+[![image.png](https://i.postimg.cc/764tLxNR/image.png)](https://postimg.cc/PL6Q3n9b)
+
+**Segmento: Personas que alquilan autos**
+
+Dos de los tres entrevistados del segmento de personas que rentan un auto, afirman que contactan y alquilan con el dueño del vehículo de forma personal, y solo uno de ellos lo hace mediante una aplicación web.  
+[![image.png](https://i.postimg.cc/26xcbPcS/image.png)](https://postimg.cc/DJ8dRY39)
+
+Dos usuarios del segmento de personas que rentan un auto mencionaron que alquilan autos por razones de entretenimiento como paseos en familia, y solo uno mencionó que lo hace por razones de trabajo o estudio.  
+[![image.png](https://i.postimg.cc/zvtxpT1m/image.png)](https://postimg.cc/D4GQwJZ5)
+
+Del segmento de personas que rentan un auto, nos encontramos que cada uno de ellos tiene una preferencia al momento de movilizarse. Uno prefiere usar el transporte público como buses, otro entrevistado prefiere un transporte particular como taxis y nuestro último entrevistado menciona que no usa con frecuencia transporte para movilizarse.  
+[![image.png](https://i.postimg.cc/fTy2yqxM/image.png)](https://postimg.cc/ykqXrPQG)
+
+El 100% de los entrevistados utiliza WhatsApp para comunicarse  
+[![image.png](https://i.postimg.cc/zfZ0dJ4f/image.png)](https://postimg.cc/874RcVp8)
+
+Entre las aplicaciones preferidas para distraerse están Facebook, Instagram, Youtube y Netflix.  
+[![image.png](https://i.postimg.cc/1zrcJDpW/image.png)](https://postimg.cc/zL3gfb2W)
+
+**Segmento: Mecánicos**
+
+Dos de los tres entrevistados del segmento mecánicos, afirman que el servicio que más realizan es el mantenimiento general que se realiza cada mes al vehículo. Este servicio es aproximadamente el 30% de los servicios realizados mensualmente, 20% planchado y pintura y 20% reparaciones en general.  
+[![image.png](https://i.postimg.cc/2S44SnXz/image.png)](https://postimg.cc/PC5L6vjc)
+
+Los mecánicos entrevistados indican que realizan entre 5-15 servicios al día. El 33% realiza 5 servicios, el 33% entre 6-10 servicios y el otro 33% realiza entre 11-15 servicios al día.  
+[![image.png](https://i.postimg.cc/xCqJMmgN/image.png)](https://postimg.cc/MM2p8vCz)
+
+De los mecánicos entrevistados 2 eran varones y 1 mujer  
+[![image.png](https://i.postimg.cc/RZQPqWPz/image.png)](https://postimg.cc/Bjb5Vn9h)
+
+El 100% de los entrevistados del segmento de los mecánicos utiliza el sistema operativo Android  
+[![image.png](https://i.postimg.cc/j27cT2Wm/image.png)](https://postimg.cc/fSMmjwff)
+
+El 66% de los entrevistados del segmento mecánicos se informa a través de Google y el 34% mediante Twitter  
+[![image.png](https://i.postimg.cc/y8PPswd1/image.png)](https://postimg.cc/jDDNh3Pm)
 
 ## 2.3 Needfinding
 ###  2.3.1 User Personas
