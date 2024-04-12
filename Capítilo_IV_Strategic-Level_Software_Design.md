@@ -1,3 +1,13 @@
+# Capítulo IV: Strategic-Level Software Design.
+## 4.1. Strategic-Level Attribute-Driven Design.
+### 4.1.1. Design Purpose.
+### 4.1.2. Attribute-Driven Design Inputs.
+#### 4.1.2.1. Primary Functionality (Primary User Stories).
+#### 4.1.2.2. Quality attribute Scenarios.
+#### 4.1.2.3. Constraints.
+### 4.1.3. Architectural Drivers Backlog.
+### 4.1.4. Architectural Design Decisions.
+### 4.1.5. Quality Attribute Scenario Refinements.
 ## 4.2 Strategic-Level Domain-Driven Design.
 ### 4.2.1. EventStorming.
 En cuanto al proceso de nuestro EventStorming se utilizó la herramienta MIRO, donde se realizó todo el proceso. Se inició con el primer paso que sería Unstructured Exploration, para ello se analizó y compartieron diferentes opiniones acerca a los eventos del dominio, de igual manera se tuvo en cuenta varios criterios para elegir los eventos de dominio.
@@ -120,4 +130,17 @@ De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon 
 ### 4.2.5. Context Mapping.
 
 ![](Resources/images/DDD-Images/Context-Mapping.png)
+
+## 4.3. Software Architecture.
+### 4.3.1. Software Architecture System Landscape Diagram.
+[![image.png](https://i.postimg.cc/K8BLjmVt/image.png)](https://postimg.cc/k2MDhP75)
+
+### 4.3.1. Software Architecture Context Level Diagrams.
+[![image.png](https://i.postimg.cc/Kj132bBk/image.png)](https://postimg.cc/0KqyYLtP)
+
+### 4.3.2. Software Architecture Container Level Diagrams.
+[![image.png](https://i.postimg.cc/c1z8cKGQ/image.png)](https://postimg.cc/t7hTq4TT)
+
+### 4.3.3. Software Architecture Deployment Diagrams.
+[![image.png](https://i.postimg.cc/RZ769X6R/image.png)](https://postimg.cc/v4mHt7vg)
 
