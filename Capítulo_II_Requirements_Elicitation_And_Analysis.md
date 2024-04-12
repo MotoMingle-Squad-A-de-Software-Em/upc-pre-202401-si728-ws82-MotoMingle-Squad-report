@@ -297,7 +297,23 @@ Segmento: Personas que ofrecen servicios de mecánica
 [![image.png](https://i.postimg.cc/nh34xpZr/As-Is3.png)](https://postimg.cc/K1gkrX1h)
 
 
+##   2.4 Ubiquitous Language
 
+Esta sección proporciona un lenguaje común y compartido que será utilizado por todos los miembros del equipo y las partes interesadas en el proyecto. Esto garantizará una comunicación clara y efectiva durante el desarrollo del proyecto, reduciendo así los malentendidos y mejorando la colaboración entre los participantes.
+
+Mecánica Automotriz:
+
+Reparaciones de motor: Términos específicos relacionados con la reparación y mantenimiento de motores de vehículos, como "cambio de aceite", "ajuste de válvulas", "reemplazo de bujías", etc.
+Mantenimiento de frenos: Términos relacionados con la inspección, reparación y reemplazo de componentes del sistema de frenos, como "cambio de pastillas de freno", "revisión de discos de freno", "purga de líquido de frenos", etc.
+Servicios de planchado y pintura: Términos relacionados con el proceso de reparación y pintura de carrocerías de vehículos, como "desabollado", "lijado", "aplicación de imprimación", "pintura base y acabado", etc.
+Alineamiento y balanceo de llantas: Términos relacionados con el ajuste y equilibrado de las llantas de un vehículo, como "alineación de dirección", "ajuste de convergencia", "balanceo de llantas", etc.
+Diagnóstico de problemas: Términos relacionados con la identificación y solución de problemas mecánicos en los vehículos, como "lectura de códigos de error", "prueba de compresión del motor", "inspección visual", etc.
+Alquiler de Vehículos:
+
+Reserva de vehículo: Proceso de solicitud y confirmación de alquiler de vehículo por parte del cliente.
+Contrato de alquiler: Acuerdo formal entre el cliente y la empresa de alquiler de vehículos que establece los términos y condiciones del alquiler.
+Tarifas por día: Costo asociado al alquiler de vehículos por cada día de uso.
+Depósito de seguridad: Cantidad de dinero depositada por el cliente como garantía en caso de daños o incidentes durante el alquiler.
 
 
 
