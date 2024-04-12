@@ -108,6 +108,18 @@ En esta sección se presentarán las User Stories y Epics de nuestro proyecto. L
 | US040        | Usuario mecánico ingresa la ubicación de su taller                   | Como usuario mecánico quiero añadir la ubicación de mi taller para que los clientes puedan ver mi taller y lo cerca que se encuentra de ellos.                                                                   | **SCENARIO 1:** El mecánico tiene más de un taller.<br>**Given:** el mecánico tiene más de un taller<br>**When:** esté en la sección para añadir su taller<br>**Then:** podrá ingresar la ubicación de más de un taller para registrar todos sus talleres disponibles.<br><br>**SCENARIO 2:** El mecánico posee solo un taller.<br>**Given:** el mecánico posee un taller<br>**When:** este en la sección para añadir su taller<br>**Then:** podrá registrar todos los datos y la ubicación de su taller.                                                                                                                                                                                                                                                                                                                             | EP024    |
 
 ## 3.3. Impact Mapping.
+
+Para comprender mejor las necesidades y expectativas de nuestros usuarios en cuanto al servicio de alquiler de vehículos y mecánica automotriz, hemos implementado la herramienta de Impact Mapping. Esta herramienta nos permite visualizar cómo las acciones y necesidades de nuestros usuarios se alinean con los objetivos del negocio. A través de dos etapas principales, los impactos y los entregables, podemos identificar qué acciones deben tomar nuestros usuarios para ayudarnos a alcanzar nuestros objetivos comerciales, así como determinar cómo podemos apoyarlos en este proceso. A continuación, presentamos los Impact Mapping específicos para los propietarios y usuarios que requieren servicios de alquiler de vehículos y mecánica automotriz.
+
+Segmento: Dueños que desean alquilar sus autos   
+[![image.png](https://i.postimg.cc/bJFT0n3Q/impact1.png)](https://postimg.cc/jwPPtDV5)
+
+Segmento: Personas que desean alquilar un auto  
+[![image.png](https://i.postimg.cc/QMfPPHfM/impact2.png)](https://postimg.cc/QBW0KxGL)
+
+Segmento: Personas con taller automotriz  
+[![image.png](https://i.postimg.cc/Gmr5mkN2/impact3.png)](https://postimg.cc/3dSBLD35)
+
 ## 3.4 Product Backlog.
 
 |#Orden|ID|Título|Historia de Usuario|Story Points (1/2/3/5/8)|
