@@ -78,7 +78,7 @@ Esta aplicación web tiene sólo una sede de entrega en Lima. Tiene una sección
 - ¿Crees que te podría ayudar en algo? 
 - ¿Qué característica te gustaría que tuviera?
 
-**Personas que desean alquilar un auto**  
+**Personas que brindan servicio de mecánica**  
 - ¿Cuántos servicios de mecánica de autos realizas al día aproximadamente?
 - ¿Qué servicios ofreces en tu taller mecánico?
 - ¿Cuál es el servicio más común por el que vienen los clientes?
