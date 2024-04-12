@@ -255,3 +255,29 @@ Para elaborar la Matriz de Tareas del Usuario, se tuvieron en cuenta los tres se
 
 [![image.png](https://i.postimg.cc/j2ShLxt2/image.png)](https://postimg.cc/LYGPWMqF)
 
+Después de completar la Matriz de Tareas del Usuario, hemos identificado algunas actividades cruciales para cada grupo de usuarios. En el caso de aquellos que buscan alquilar un automóvil, las actividades prioritarias incluyen la comunicación con individuos o agencias para obtener información, ya sea a través de anuncios en periódicos o en sitios web. Mientras tanto, para los usuarios que desean rentar su automóvil, las actividades clave se centran en publicar anuncios sobre la disponibilidad de sus vehículos, facilitando así el contacto con posibles interesados. Además, para los mecánicos, las actividades críticas pueden incluir la promoción de sus servicios de reparación y mantenimiento en plataformas en línea o redes sociales, así como la respuesta rápida a consultas de clientes potenciales.
+
+###   2.3.3 User Journey
+
+El User Journey Map es una representación visual que nos ayuda a comprender el flujo del usuario dentro de nuestra plataforma desde el primer contacto hasta la interacción final. Por ejemplo, incluye actividades como la búsqueda, el registro y la navegación de los usuarios, entre otros aspectos. Su importancia radica en proporcionar una comprensión clara de los objetivos de nuestros usuarios, así como en guiar cómo nuestra plataforma debe responder para cumplir con estos objetivos. También nos permite identificar posibles riesgos en el proceso y cómo convertirlos en oportunidades para mejorar la experiencia del usuario.
+
+Segmento: Dueños que desean alquilar autos
+[![image.png](https://i.postimg.cc/MGvCY3H3/due-os.png)](https://postimg.cc/061Xkfp7)
+
+Segmento: Personas que desean alquilar un auto
+[![image.png](https://i.postimg.cc/rp1S7MDD/Alquilar.png)](https://postimg.cc/sB2QhF9z)
+
+Segmento: Personas que ofrecen servicios de mecánica
+[![image.png](https://i.postimg.cc/vZqTPmLY/Mecanico.png)](https://postimg.cc/K1TmjxHw)
+
+
+
+
+
+
+
+
+
+
+
+
