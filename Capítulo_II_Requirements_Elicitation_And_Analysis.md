@@ -283,6 +283,21 @@ Segmento: Personas que desean alquilar un auto
 Segmento: Personas que ofrecen servicios de mecánica
 [![image.png](https://i.postimg.cc/dt9gckfY/Empathy3.png)](https://postimg.cc/Czzcj1YP)
 
+###    2.3.5 As-is Scenario Mapping. 
+
+El As-Is Scenario Map es un diagrama que nos ayuda a entender los pasos específicos que un usuario tomaría para completar una tarea dentro de nuestra plataforma, así como a comprender qué lo motiva en ese proceso. Este análisis considera la acción requerida, los pensamientos y los sentimientos experimentados durante la ejecución de esa acción. Dado que nuestra startup está en sus primeras etapas, nuestro objetivo principal es delimitar el alcance de nuestra operación principal, que incluye tanto el alquiler de vehículos como el servicio de mecánica, desde la perspectiva de los propietarios y los clientes.
+
+Segmento: Dueños que desean alquilar autos
+[![image.png](https://i.postimg.cc/cH4BYCmQ/As-Is1.png)](https://postimg.cc/d7pCcqg1)
+
+Segmento: Personas que desean alquilar un auto
+[![image.png](https://i.postimg.cc/kgqs9Tb1/As-Is2.png)](https://postimg.cc/Mv3VmbtV)
+
+Segmento: Personas que ofrecen servicios de mecánica
+[![image.png](https://i.postimg.cc/nh34xpZr/As-Is3.png)](https://postimg.cc/K1gkrX1h)
+
+
+
 
 
 
