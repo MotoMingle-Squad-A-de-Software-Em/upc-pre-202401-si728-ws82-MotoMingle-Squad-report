@@ -270,6 +270,25 @@ Segmento: Personas que desean alquilar un auto
 Segmento: Personas que ofrecen servicios de mecánica
 [![image.png](https://i.postimg.cc/vZqTPmLY/Mecanico.png)](https://postimg.cc/K1TmjxHw)
 
+###   2.3.4 Empathy Mapping
+
+Con el propósito de comprender y conocer más a fondo a nuestros usuarios, creamos mapas de empatía, los cuales exploran nueve áreas fundamentales para su desarrollo. A continuación, presentaremos los mapas de empatía elaborados para cada segmento objetivo:
+
+Segmento: Dueños que desean alquilar autos
+[![image.png](https://i.postimg.cc/vZ0Rfg7z/Empathy1.png)](https://postimg.cc/rDRYLpP0)
+
+Segmento: Personas que desean alquilar un auto
+[![image.png](https://i.postimg.cc/CMkWJ6Hd/Empathy2.png)](https://postimg.cc/c619LhzN)
+
+Segmento: Personas que ofrecen servicios de mecánica
+[![image.png](https://i.postimg.cc/dt9gckfY/Empathy3.png)](https://postimg.cc/Czzcj1YP)
+
+
+
+
+
+
+
 
 
 
