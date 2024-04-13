@@ -20,7 +20,17 @@ Esta aplicación web tiene sólo una sede de entrega en Lima. Tiene una sección
 [![image.png](https://i.postimg.cc/TYyrSHPz/image.png)](https://postimg.cc/D8TJ46L6)
 
 ### 2.1.1. Análisis competitivo.
+[![image.png](https://i.postimg.cc/nrFDZTG3/Analisiscompetitivo.png)](https://postimg.cc/cgzHBRj3)
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Nuestra Estrategia: Diferenciación y Valor Agregado
+
+Nos enfocaremos en áreas de mejora de las aplicaciones web de la competencia:
+Falta de servicio de entrega a domicilio y limitada disponibilidad de sedes.
+Autos ofrecidos pertenecen a empresas; nosotros nos asociaremos con propietarios de vehículos, evitando una gran inversión inicial.
+Implementación de un chatbot para resolver dudas frecuentes, abordando la falta de interacción directa en algunas plataformas competidoras.
+Potenciación de las redes sociales con incentivos, aprovechando una oportunidad no explorada por la competencia, que se limita a un sitio web estático sin presencia activa en redes sociales.
+Estas características fortalecerán nuestro startup, ofreciendo un valor diferencial y una experiencia más completa para nuestros usuarios.
+
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
