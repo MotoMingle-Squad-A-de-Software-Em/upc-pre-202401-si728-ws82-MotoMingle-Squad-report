@@ -27,7 +27,10 @@ Ciclo: 2024-1
 
 | Integrante                               | Código     |
 | ---------------------------------------- | ---------- |
+| Alvarado Mejía, Yeni fiorella            | U202010773 |
 | Aquino Cruz, Leonardo José               | U20201B033 |
+| Cesías Díaz, Leonardo Paolo              | U202010773 |
+
 
 <div align="right"><Abril 2024></div>
 <p align="right">
