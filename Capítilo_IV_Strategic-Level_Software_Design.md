@@ -1,13 +1,33 @@
 # Capítulo IV: Strategic-Level Software Design.
 ## 4.1. Strategic-Level Attribute-Driven Design.
 ### 4.1.1. Design Purpose.
+El propósito del diseño es desarrollar una plataforma de alquiler de vehículos que sea intuitiva y eficaz, satisfaciendo las necesidades tanto de los propietarios de vehículos como de los clientes. Esta solución está destinada a facilitar un proceso de alquiler seguro y confiable, maximizando la utilidad y la satisfacción del usuario.
+
 ### 4.1.2. Attribute-Driven Design Inputs.
 #### 4.1.2.1. Primary Functionality (Primary User Stories).
+**US003:** Iniciar sesión (Como usuario registrado quiero iniciar sesión con mi usuario y contraseña registrados para poder utilizar la plataforma).  
+**Criterios de Aceptación:** Proceso de inicio de sesión seguro y eficiente en diferentes dispositivos y navegadores.  
+
+US011: Editar anuncio de alquiler (Como propietario quiero editar un anuncio de alquiler para actualizar la información del vehículo).  
+Criterios de Aceptación: Capacidad para realizar y visualizar cambios en tiempo real, manteniendo el historial de versiones de anuncios.
+
 #### 4.1.2.2. Quality attribute Scenarios.
+**Usabilidad:** La plataforma deberá permitir a los usuarios registrarse y realizar un alquiler o listar un vehículo en menos de cinco minutos.  
+**Medida:** Medición del tiempo promedio que toma completar las acciones mencionadas a través de pruebas de usuario.
+
 #### 4.1.2.3. Constraints.
+**Conformidad con GDPR:** La solución debe cumplir con la normativa general de protección de datos para operar en los mercados pertinentes.  
+**Criterios de Aceptación:** Implementación de medidas de seguridad de datos, como el cifrado y la obtención del consentimiento del usuario.
+
 ### 4.1.3. Architectural Drivers Backlog.
+La selección de los drivers arquitectónicos se basa en su importancia para las partes interesadas y su complejidad técnica, con prioridad en la seguridad y la experiencia del usuario.
+
 ### 4.1.4. Architectural Design Decisions.
+Las decisiones de diseño incluyen la adopción de una arquitectura de microservicios para facilitar la escalabilidad y la independencia de los componentes del sistema.
+
 ### 4.1.5. Quality Attribute Scenario Refinements.
+Los escenarios de atributos de calidad se han refinado para priorizar la usabilidad y la seguridad, asegurando que la plataforma sea accesible y confiable.
+
 ## 4.2 Strategic-Level Domain-Driven Design.
 ### 4.2.1. EventStorming.
 En cuanto al proceso de nuestro EventStorming se utilizó la herramienta MIRO, donde se realizó todo el proceso. Se inició con el primer paso que sería Unstructured Exploration, para ello se analizó y compartieron diferentes opiniones acerca a los eventos del dominio, de igual manera se tuvo en cuenta varios criterios para elegir los eventos de dominio.
