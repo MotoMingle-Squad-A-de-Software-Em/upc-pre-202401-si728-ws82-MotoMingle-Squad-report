@@ -22,11 +22,18 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 
 #### Leonardo José Aquino Cruz
 ![leonardo.jpg](https://i.postimg.cc/PqYZ9FZb/leonardo.jpg)](https://postimg.cc/KKcRgf04)
+
 + Soy un estudiante de la universidad peruana de ciencias aplicadas, curso la carrera de Ingeniería de Software, estoy actualmente en el octavo ciclo. Soy una persona perseverante, responsable y creativo. Siempre apoyaré en todo lo que esté a mi alcance a mi equipo.
 
 #### Leonardo Paolo Cesías Díaz
-<img src="Resources/images/leonardo.jpg" width="300" height="400">
-+ Mi nombre el Leonardo Paolo Cesías Díaz y estudio la carrera de Ingeniería de Software, ya que poseo interés por la tecnología. Mis principales hobbies son los videojuegos y conocer nuevas tecnologías. Mi disponibilidad y actitud de servicio frente a cualquier situación son mis principales cualidades que aportarán al grupo. Además de mis conocimientos en programación.
+<img src="Resources/images/leonardo.jpg" width="300" height="400">  
+
++ Mi nombre es Leonardo Paolo Cesías Díaz y estudio la carrera de Ingeniería de Software, ya que poseo interés por la tecnología. Mis principales hobbies son los videojuegos y conocer nuevas tecnologías. Mi disponibilidad y actitud de servicio frente a cualquier situación son mis principales cualidades que aportarán al grupo. Además de mis conocimientos en programación.
+
+#### Toshiro Ysique Lopez
+[![image.png](https://i.postimg.cc/hvYcNpKR/image.png)](https://postimg.cc/Pv1gwbLS)
+
++ Mi nombre es Toshiro Ysique Lopez y estoy en el octavo ciclo de la carrera de Ingeniería de Software. Tengo un profundo interés en la tecnología, lo que me ha llevado a especializarme en el desarrollo de aplicaciones web y móviles. Soy conocido por mi capacidad de trabajar eficazmente en equipo y por mi actitud empática y de servicio, cualidades que me permiten colaborar efectivamente y enfrentar cualquier desafío con una mentalidad abierta. Me comprometo con el aprendizaje continuo y busco constantemente mejorar mis habilidades en programación y colaboración para contribuir de manera significativa en cualquier proyecto o equipo.
 
 ## 1.2. Solution Profile.
 ### 1.2.1 Antecedentes y problemática.
