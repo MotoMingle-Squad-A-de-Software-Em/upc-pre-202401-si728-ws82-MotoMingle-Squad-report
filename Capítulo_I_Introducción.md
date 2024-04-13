@@ -24,6 +24,10 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 [![leonardo.jpg](https://i.postimg.cc/PqYZ9FZb/leonardo.jpg)](https://postimg.cc/KKcRgf04)
 + Soy un estudiante de la universidad peruana de ciencias aplicadas, curso la carrera de Ingeniería de Software, estoy actualmente en el octavo ciclo. Soy una persona perseverante, responsable y creativo. Siempre apoyaré en todo lo que esté a mi alcance a mi equipo.
 
+#### Leonardo Paolo Cesías Díaz
+[![leonardocesias.jpg](Resources/images/leonardo.jpg){ width=150px height=100px }
++ Mi nombre el Leonardo Paolo Cesías Díaz y estudio la carrera de Ingeniería de Software, ya que poseo interés por la tecnología. Mis principales hobbies son los videojuegos y conocer nuevas tecnologías. Mi disponibilidad y actitud de servicio frente a cualquier situación son mis principales cualidades que aportarán al grupo. Además de mis conocimientos en programación.
+
 ## 1.2. Solution Profile.
 ### 1.2.1 Antecedentes y problemática.
 Durante la pandemia, muchas personas se vieron afectadas económicamente al perder sus trabajos, lo que generó una mayor demanda en el negocio de alquiler de automóviles. Esta situación reveló una necesidad latente: la protección tanto para los arrendadores como para los arrendatarios frente a posibles desperfectos en los vehículos. Se ha observado que los clientes, en ocasiones, no cuidan adecuadamente los automóviles alquilados, lo que resulta en costosas reparaciones para los propietarios.
