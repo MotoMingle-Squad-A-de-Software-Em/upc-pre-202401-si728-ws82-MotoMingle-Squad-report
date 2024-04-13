@@ -25,7 +25,7 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 + Soy un estudiante de la universidad peruana de ciencias aplicadas, curso la carrera de Ingeniería de Software, estoy actualmente en el octavo ciclo. Soy una persona perseverante, responsable y creativo. Siempre apoyaré en todo lo que esté a mi alcance a mi equipo.
 
 #### Leonardo Paolo Cesías Díaz
-![leonardocesias.jpg](Resources/images/leonardo.jpg =50x80)
+<img src="Resources/images/leonardo.jpg" width="100" height="100">
 + Mi nombre el Leonardo Paolo Cesías Díaz y estudio la carrera de Ingeniería de Software, ya que poseo interés por la tecnología. Mis principales hobbies son los videojuegos y conocer nuevas tecnologías. Mi disponibilidad y actitud de servicio frente a cualquier situación son mis principales cualidades que aportarán al grupo. Además de mis conocimientos en programación.
 
 ## 1.2. Solution Profile.
