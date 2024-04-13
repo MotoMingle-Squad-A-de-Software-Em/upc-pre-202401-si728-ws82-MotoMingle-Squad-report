@@ -20,7 +20,7 @@ Esta aplicación web tiene sólo una sede de entrega en Lima. Tiene una sección
 [![image.png](https://i.postimg.cc/TYyrSHPz/image.png)](https://postimg.cc/D8TJ46L6)
 
 ### 2.1.1. Análisis competitivo.
-[![image.png](https://i.postimg.cc/nrFDZTG3/Analisiscompetitivo.png)](https://postimg.cc/cgzHBRj3)
+[![image.png](https://i.postimg.cc/WbNFC95K/Analisiscompetitivo1.png)](https://postimg.cc/z3QGRkZS)
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Nuestra Estrategia: Diferenciación y Valor Agregado
 
