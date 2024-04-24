@@ -5,12 +5,12 @@ El propósito del diseño es desarrollar una plataforma de alquiler de vehículo
 
 ### 4.1.2. Attribute-Driven Design Inputs.
 #### 4.1.2.1. Primary Functionality (Primary User Stories).
-|#Orden|ID|Título|Historia de Usuario|
-|------|--|------|-------------------|
-|1|US009|Usuario arrendador registrado quiere colocar un anuncio de alquiler de auto.|Como usuario arrendador registrado quiero colocar un anuncio de alquiler de auto para obtener ganancias.|
-|2|US007|Como usuario quiero suscribirme a un plan para tener beneficios|Como usuario arrendador registrado quiero adquirir un plan de suscripción de abono mensual para tener beneficios.|
-|3|US023|Usuario arrendatario alquila un auto de su preferencia|Como usuario arrendatario quiero alquilar un auto de mi preferencia para trabajar y/o transportarme.|
-|4|US016|Como usuario arrendador quiero establecer mis requisitos por el alquiler de mi auto|Como usuario arrendador quiero seleccionar una serie de requisitos preconfigurados para el alquiler de mi auto.|
+|#Orden|ID|Historia de Usuario|
+|------|--|-------------------|
+|1|US009|Como usuario arrendador registrado quiero colocar un anuncio de alquiler de auto para obtener ganancias.|
+|2|US007|Como usuario arrendador registrado quiero adquirir un plan de suscripción de abono mensual para tener beneficios.|
+|3|US023|Como usuario arrendatario quiero alquilar un auto de mi preferencia para trabajar y/o transportarme.|
+|4|US016|Como usuario arrendador quiero seleccionar una serie de requisitos preconfigurados para el alquiler de mi auto.|
 
 #### 4.1.2.2. Quality attribute Scenarios.
 **Usabilidad:** La plataforma deberá permitir a los usuarios registrarse y realizar un alquiler o listar un vehículo en menos de cinco minutos.  
