@@ -5,7 +5,7 @@ El propósito del diseño es desarrollar una plataforma de alquiler de vehículo
 
 ### 4.1.2. Attribute-Driven Design Inputs.
 #### 4.1.2.1. Primary Functionality (Primary User Stories).
-|#Orden|ID|Historia de Usuario|
+|Orden|ID|Historia de Usuario|
 |------|--|-------------------|
 |1|US009|Como usuario arrendador registrado quiero colocar un anuncio de alquiler de auto para obtener ganancias.|
 |2|US007|Como usuario arrendador registrado quiero adquirir un plan de suscripción de abono mensual para tener beneficios.|
@@ -13,8 +13,15 @@ El propósito del diseño es desarrollar una plataforma de alquiler de vehículo
 |4|US016|Como usuario arrendador quiero seleccionar una serie de requisitos preconfigurados para el alquiler de mi auto.|
 
 #### 4.1.2.2. Quality attribute Scenarios.
-**Usabilidad:** La plataforma deberá permitir a los usuarios registrarse y realizar un alquiler o listar un vehículo en menos de cinco minutos.  
-**Medida:** Medición del tiempo promedio que toma completar las acciones mencionadas a través de pruebas de usuario.
+|ID|Atributo de calidad|Escenario|Historia de usuario|
+|--|-------------------|---------|-------------------|
+| AC-01 | Fiabilidad y Seguridad | Dado que la persona quiere adquirir un plan flota silver, cuando elige el plan flota silver, entonces debe ingresar una tarjeta de crédito o débito, cuando se valide la tarjeta mediante la API de stripe, entonces el sistema valida su membresía y le otorgará los accesos para que use el servicio. | US-007 |
+| AC-02 | Fiabilidad | Dado que el usuario ingresa los datos de una tarjeta de crédito o débito inválida cuando se valida la tarjeta, entonces la vista muestra un aviso informando que la tarjeta es inválida. | US-007 |
+| AC-03 | Usabilidad | Dado que el usuario se encuentra en la sección “Mis autos” y selecciona el botón “Añadir Auto”, cuando complete el formulario de añadir auto sin omitir ningún campo del formulario y rellenando campos como modelo, placa, fecha de disponibilidad entonces el sistema mostrará un mensaje de “Anuncio publicado exitosamente”. | US-009 |
+| AC-04 | Fiabilidad | Dado que el usuario se encuentra en la sección “Mis autos” y selecciona el botón “Añadir Auto” cuando complete el formulario de añadir auto omitiendo algunos campos entonces el sistema mostrará un mensaje de “Información del auto inválida” | US-009 |
+| AC-05 | Eficiencia | Dado que el usuario arrendador ingresa a las opciones del auto en el apartado “Alquiler” y puede escoger en la sección “restricciones” cuando visualice cada ítem de la lista con un checkbox al lado, podrá marcar cuales desea requerir, entonces para guardar la configuración podrá hacer click en el boton guardar. | US-016 |
+| AC-06 | Usabilidad y Eficiencia | Dado que el usuario arrendatario se encuentra en la sección “Menú Principal”, el usuario arrendatario puede visualizar todos los tipos de autos disponibles cuando el usuario arrendatario seleccione cualquier auto, puede ver a detalle sus características. Si desea alquilar dicho auto, tan solo da clic “Alquilar auto” entonces el sistema le redirigirá a una nueva pantalla para hacer un trato con el dueño del auto | US-023 |
+
 
 #### 4.1.2.3. Constraints.
 **Conformidad con GDPR:** La solución debe cumplir con la normativa general de protección de datos para operar en los mercados pertinentes.  
