@@ -24,8 +24,14 @@ El propósito del diseño es desarrollar una plataforma de alquiler de vehículo
 
 
 #### 4.1.2.3. Constraints.
-**Conformidad con GDPR:** La solución debe cumplir con la normativa general de protección de datos para operar en los mercados pertinentes.  
-**Criterios de Aceptación:** Implementación de medidas de seguridad de datos, como el cifrado y la obtención del consentimiento del usuario.
+|ID|Descripción|
+|--|-----------|
+| CON-001 | Validación de tarjeta de crédito o débito. |
+| CON-002 | Validación de tarjeta de crédito o débito inválida |
+| CON-003 | Completar el formulario de añadir auto sin omitir ningún campo y rellenando campos específicos como modelo, placa, y fecha de disponibilidad. |
+| CON-004 | Omitir algunos campos al completar el formulario de añadir auto. |
+| CON-005 | Permitir al usuario arrendador seleccionar y guardar restricciones para el alquiler del auto. |
+| CON-006 | Permitir al usuario arrendatario visualizar y alquilar un auto desde el menú principal. |
 
 ### 4.1.3. Architectural Drivers Backlog.
 La selección de los drivers arquitectónicos se basa en su importancia para las partes interesadas y su complejidad técnica, con prioridad en la seguridad y la experiencia del usuario.
