@@ -77,6 +77,205 @@ Las decisiones de diseño incluyen la adopción de una arquitectura de microserv
 ### 4.1.5. Quality Attribute Scenario Refinements.
 Los escenarios de atributos de calidad se han refinado para priorizar la usabilidad y la seguridad, asegurando que la plataforma sea accesible y confiable.
 
+#### Scenario Refinement for Scenario 1
+
+**Scenario(s):**
+Dado que la persona quiere adquirir un plan flota silver, cuando elige el plan flota silver, entonces debe ingresar una tarjeta de crédito o débito, cuando se valide la tarjeta mediante la API de stripe, entonces el sistema valida su membresía y le otorgará los accesos para que use el servicio.
+
+**Business Goals:**
+Asegurar la confianza del cliente en el proceso de suscripción
+Cumplir con las regulaciones financieras y de protección de datos
+
+**Relevant Quality Attributes:**
+Seguridad en el procesamiento de la tarjeta de crédito o débito.
+Fiabilidad en la validación de la membresía.
+
+**Stimulus:**
+El usuario elige un plan de suscripción y proporciona detalles de la tarjeta de crédito o débito para la verificación.
+
+**Stimulus Source:**
+Cliente que realiza una acción a través de la interfaz de usuario del sistema.
+
+**Environment:**
+Sistema web en operación normal
+
+**Artifact (if Known):**
+Módulo de procesamiento de pagos
+
+**Response:**
+El sistema interactúa con la API de Stripe para validar la tarjeta y luego actualizar la membresía del usuario permitiendo el acceso a los servicios.
+
+**Response Measure:**
+La tarjeta de crédito o débito debe ser validada en menos de 5 segundos el 99% de las veces.
+El sistema debe registrar todas las transacciones de tarjeta de crédito/débito y los resultados de la validación de forma segura.
+
+**Questions:**
+¿Cómo maneja el sistema los fallos en la comunicación con la API de Stripe?
+¿Cuáles son las medidas de contingencia si la API de Stripe está caída?
+
+**Issues:**
+Necesidad de implementar medidas robustas de seguridad para proteger los datos de la tarjeta de crédito o débito.
+Asegurar la disponibilidad y el rendimiento de la API de Stripe durante el pico de las horas de tráfico.
+
+#### Scenario Refinement for Scenario 2
+
+**Scenario(s):**
+Dado que el usuario ingresa los datos de una tarjeta de crédito o débito inválida cuando se valida la tarjeta, entonces la vista muestra un aviso informando que la tarjeta es inválida.
+
+**Business Goals:**
+Proporcionar retroalimentación inmediata sobre la validez de la información de pago para mejorar la experiencia del usuario
+Reducir el número de transacciones fallidas y mejorar la tasa de éxito de las transacciones.
+
+**Relevant Quality Attributes:**
+Fiabilidad en la validación de la información de latarjeta de crédito o débito.
+Retroalimentación precisa y oportuna al usuario en caso de error.
+
+**Stimulus:**
+El usuario ingresa información de una tarjeta de crédito o débito inválida durante el proceso de suscripción o compra.
+
+**Stimulus Source:**
+Usuario final a través de la interfaz web o móvil.
+
+**Environment:**
+Entorno de operación normal, con el usuario final interactuando con el sistema a través de una conexión segura a Internet.
+
+**Artifact (if Known):**
+Proceso de validación de datos de tarjeta de crédito/débito.
+
+**Response:**
+Proceso detecta que la información de la tarjeta es inválida y notifica al usuario a través de la interfaz de usuario sin procesar una transacción.
+
+**Response Measure:**
+El sistema debe identificar y notificar al usuario sobre la invalidez de la tarjeta en menos de 3 segundos en el 99% de los casos.
+
+**Questions:**
+¿Cuáles son las pautas específicas para determinar la validez de la información de la tarjeta?
+¿Cómo garantizar el sistema que la notificación al usuario sea clara y no proporcione información que pueda ser utilizada de manera malintencionada?
+
+**Issues:**
+Implementar un sistema de validación que no retrase el flujo de pago debido a las comprobaciones de seguridad.
+Asegurarse de que el mensaje de error no revele información que pueda ayudar a un atacante a inferir detalles válidos de la tarjeta.
+
+#### Scenario Refinement for Scenario 3
+
+**Scenario(s):**
+Dado que el usuario se encuentra en la sección “Mis autos” y selecciona el botón “Añadir Auto”, cuando complete el formulario de añadir auto sin omitir ningún campo del formulario y rellenando campos como modelo, placa, fecha de disponibilidad entonces el sistema mostrará un mensaje de “Anuncio publicado exitosamente”.
+
+**Business Goals:**
+Maximizar la eficiencia del proceso de publicación de anuncios por parte de los usuarios.
+Reducir la posibilidad de errores durante el proceso de introducción de datos para mejorar la calidad de los anuncios.
+
+**Relevant Quality Attributes:**
+Usabilidad del formulario de publicación de anuncios.
+Claridad en la retroalimentación del sistema tras la acción de publicar un anuncio.
+
+**Stimulus:**
+El usuario arrendador ingresa los detalles de su auto utilizando el formulario en la sección "Mis autos" y selecciona "Añadir Auto".
+
+**Stimulus Source:**
+Arrendador de vehículo interactuando con el sistema a través de la interfaz web.
+
+**Environment:**
+Entorno de usuario final en condiciones operativas normales.
+
+**Artifact (if Known):**
+Formulario web de adición de vehículos y sistema de gestión de anuncios.
+
+**Response:**
+El sistema valida que todos los campos requeridos están completos y correctamente formateados, y luego registra el nuevo anuncio en la base de datos, mostrando un mensaje de éxito.
+
+**Response Measure:**
+El sistema debe confirmar la publicación exitosa del anuncio en menos de 2 segundos después de la entrada del usuario en el 95% de los casos.
+Los errores en la entrada de datos deben ser mínimos y cualquier dato necesario faltante o error de formato debe ser claramente señalizado al usuario para corrección inmediata.
+
+**Questions:**
+¿Cuáles son los campos obligatorios y opcionales en el formulario de adición de vehículos?
+¿Cómo se valida la consistencia de los datos ingresados por el usuario?
+
+**Issues:**
+Necesidad de claridad en la interfaz de usuario para garantizar que los arrendadores comprendan cómo llenar el formulario correctamente.
+Implementación de un mecanismo de validación de datos efectivo que no interrumpa la fluidez del proceso de introducción de datos.
+
+#### Scenario Refinement for Scenario 4
+
+**Scenario(s):**
+Dado que el usuario se encuentra en la sección “Mis autos” y selecciona el botón “Añadir Auto” cuando complete el formulario de añadir auto omitiendo algunos campos entonces el sistema mostrará un mensaje de “Información del auto inválida”.
+
+**Business Goals:**
+Garantizar que la información del vehículo sea completa y precisa para evitar malentendidos o problemas con los arrendatarios.
+Asegurar un proceso de publicación de anuncios eficiente y sin errores que podría llevar a la no disponibilidad de un vehículo.
+
+**Relevant Quality Attributes:**
+Fiabilidad en la captura y validación de datos del formulario de publicación de anuncios.
+Integridad de los datos introducidos para el anuncio de un vehículo.
+
+**Stimulus:**
+El usuario arrendador completa el formulario para añadir un nuevo auto pero omite algunos campos o introduce datos inválidos.
+
+**Stimulus Source:**
+Arrendador de vehículos utilizando la plataforma para publicar anuncios.
+
+**Environment:**
+Interfaz web en condiciones normales de operación.
+
+**Artifact (if Known):**
+Función de procesamiento de la publicación de anuncios del backend.
+
+**Response:**
+El sistema verifica la integridad y validez de la información proporcionada en el formulario y, si encuentra errores o campos omitidos, informa al usuario arrendador y solicita las correcciones pertinentes antes de permitir que el anuncio sea publicado.
+
+**Response Measure:**
+El sistema debe identificar y notificar campos omitidos o datos inválidos en el formulario en tiempo real, con una tasa de error en la publicación de menos del 1%.
+La interfaz de usuario debe proporcionar retroalimentación inmediata, idealmente mientras el usuario está interactuando con el campo de datos en cuestión.
+
+**Questions:**
+¿Cuál es el flujo de interacción exacto que el sistema sigue si los datos son inválidos o faltantes?
+¿Cómo se maneja la retroalimentación para campos opcionales versus obligatorios?
+
+**Issues:**
+Definir la lista exacta de campos que requieren validación y su criterio de validez.
+Asegurar que el sistema sea capaz de proporcionar retroalimentación de validación de manera eficiente, incluso bajo alta carga de usuarios.
+
+#### Scenario Refinement for Scenario 5
+
+**Scenario(s):**
+Dado que el usuario arrendador ingresa a las opciones del auto en el apartado "Alquiler" y puede escoger en la sección "restricciones" cuando visualice cada ítem de la lista con un checkbox al lado, podrá marcar cuáles desea requerir, entonces para guardar la configuración podrá hacer click en el botón guardar.
+
+**Business Goals:**
+Permitir a los arrendadores gestionar eficientemente las restricciones de sus vehículos para maximizar la utilización y evitar conflictos de reserva.
+Facilitar un proceso ágil y flexible que se adapte a las necesidades cambiantes del arrendador sin imponer una carga administrativa excesiva.
+
+**Relevant Quality Attributes:**
+Eficiencia en la gestión y aplicación de restricciones de vehículos.
+Flexibilidad para que los arrendadores actualicen las restricciones según sea necesario.
+
+**Stimulus:**
+El usuario arrendador selecciona restricciones para un vehículo a través de la interfaz del sistema.
+
+**Stimulus Source:**
+Arrendador de vehículos operando la plataforma para definir o modificar las restricciones de alquiler.
+
+**Environment:**
+Plataforma en línea durante operación estándar y tiempos de alta actividad.
+
+**Artifact (if Known):**
+Base de datos de restricciones de vehículos y lógica de negocio asociada.
+
+**Response:**
+El sistema proporciona una interfaz interactiva y fácil de usar para que el arrendador seleccione o modifique las restricciones, y asegura que las restricciones sean aplicadas en tiempo real a los futuros procesos de alquiler.
+
+**Response Measure:**
+Los cambios en las restricciones deben ser reflejados en el sistema y estar listos para ser aplicados en menos de 2 segundos después de la confirmación del usuario, con un 99% de fiabilidad.
+El sistema debe permitir cambios en las restricciones sin impactar la disponibilidad o el rendimiento de la plataforma.
+
+**Questions:**
+¿Cómo asegura el sistema la coherencia de las restricciones aplicadas en casos de cambios concurrentes por múltiples arrendadores?
+¿Cuáles son los mecanismos para informar a los arrendatarios existentes sobre las restricciones actualizadas?
+
+**Issues:**
+Desarrollar una interfaz de usuario intuitiva que guíe a los arrendadores a través del proceso de establecimiento de restricciones.
+Implementar lógica de backend que maneje eficazmente la aplicación de restricciones en tiempo real, especialmente durante períodos de alta demanda.
+
 ## 4.2 Strategic-Level Domain-Driven Design.
 ### 4.2.1. EventStorming.
 En cuanto al proceso de nuestro EventStorming se utilizó la herramienta MIRO, donde se realizó todo el proceso. Se inició con el primer paso que sería Unstructured Exploration, para ello se analizó y compartieron diferentes opiniones acerca a los eventos del dominio, de igual manera se tuvo en cuenta varios criterios para elegir los eventos de dominio.
