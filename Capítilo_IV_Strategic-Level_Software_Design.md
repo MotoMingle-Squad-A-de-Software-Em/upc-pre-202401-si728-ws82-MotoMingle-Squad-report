@@ -36,6 +36,23 @@ El propósito del diseño es desarrollar una plataforma de alquiler de vehículo
 ### 4.1.3. Architectural Drivers Backlog.
 La selección de los drivers arquitectónicos se basa en su importancia para las partes interesadas y su complejidad técnica, con prioridad en la seguridad y la experiencia del usuario.
 
+| Driver ID | Título de Driver | Descripción | Importancia para Stakeholders (High, Medium, Low) | Impacto en Architecture Technical Complexity (High, Medium, Low) |
+| --------- | ---------------- | ----------- | ------------------------------------------------- | ---------------------------------------------------------------- |
+| AD01 | Gestión de Anuncios | Capacidad para listar y gestionar anuncios de vehículos para alquiler | Alta | Media |
+| AD02 | Suscripción y Beneficios | Proceso de suscripción para arrendadores con gestión de beneficios | Media | Baja |
+| AD03 | Selección de Vehículos | Facilidad para que los arrendatarios encuentren y seleccionen vehículos | Alta | Alta |
+| AD04 | Requisitos Preconfigurados | Capacidad para que los arrendadores establezcan requisitos preconfigurados para el alquiler | Media | Media |
+| AD05 | Integración de Pagos Seguros | Implementar API de pagos para procesar tarjetas de crédito de forma segura y fiable (AC-01, AC-02) | Alta | Alta |
+| AD06 | Facilidad de Publicación de Anuncios | Facilitar a los usuarios la adición de nuevos anuncios de vehículos sin errores (AC-03, AC-04) | Media | Media |
+| AD07 | Configuración de Restricciones | Permitir a los arrendadores configurar restricciones personalizadas para el alquiler de autos (AC-05) | Media | Baja |
+| AD08 | Optimización del Flujo de Alquiler | Mejorar la usabilidad y eficiencia en el proceso de visualización y alquiler de vehículos (AC-06) | Alta | Media |
+| AD09 | Validación de Pago | Implementación de un sistema de validación de tarjetas de crédito/débito para transacciones seguras | Alta | Media |
+| AD10 | Manejo de Tarjetas Inválidas | Proceso robusto para manejar tarjetas de crédito/débito inválidas y comunicar errores al usuario | Media | Baja |
+| AD11 | Formulario de Añadir Auto | Diseño de formulario para añadir autos que sea flexible pero que asegure la captura de información crítica | Media | Alta |
+| AD12 | Validación de Formulario | Validaciones para asegurar que no se omitan campos críticos en el formulario de añadir autos | Media | Media |
+| AD13 | Restricciones de Alquiler | Facilidad para que los arrendadores establezcan y guarden restricciones para el alquiler de vehículos | Media | Baja |
+| AD14 | Acceso y Visualización de Autos | Permitir a los usuarios visualizar y alquilar vehículos fácilmente desde el menú principal | Alta | Media |
+
 ### 4.1.4. Architectural Design Decisions.
 Las decisiones de diseño incluyen la adopción de una arquitectura de microservicios para facilitar la escalabilidad y la independencia de los componentes del sistema.
 
