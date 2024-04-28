@@ -1,6 +1,9 @@
 # Capítulo VI: Solution UX Design.
 ## 6.1. Style Guidelines.
 ### 6.1.1. General Style Guidelines.
+Con conocimientos previos de cursos anteriores, se determina estilos fundamentales para la implementación de las responsive web interfaces:
+-	Branding: Se presenta el logo de nuestro producto:
+  ![](Resources/images/logo.png)
 ### 6.1.2. Web, Mobile & Devices Style Guidelines.
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
