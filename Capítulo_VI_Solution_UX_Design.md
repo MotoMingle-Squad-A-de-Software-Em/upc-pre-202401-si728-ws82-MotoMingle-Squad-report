@@ -61,14 +61,17 @@ Vista de la información del perfil creado dentro de la aplicación
 En cuanto a las wireflow o flujos de la aplicación en dispositivos móviles se tuvieron en cuenta las más principales las cuales son addCar o agregar un vehiculo a la palicación, rentCar o alquilar un carro desde la aplicación y rateUp o calificar un servicio dentro de la aplicación, a continuación presentamos los flujos:
 
 - Add Car
+El flujo de agregar un vehículo como dueño de vehículos inicia en la vista de login donde el usuario o se registra como dueño de vehículos o inicia sesión directamente, seguido de ello pasa a la vista princial y deberá presionar el botón de vehículo el cual lo llevará al apartado de mis vehiculos y en caso este no posea un vehiculo le aparecerá un botón al medio para agregar uno y deberá llenar los campos solicitados para su publicación en la aplicación.
 
 ![](Resources/images/mobile/addCar.png)
 
 - Rent Car
+Para realizar la acción de alquilar un vehículo se necesita una cuenta de renter o persona que busca alquilar un vehículo, el flujo inicia en la vista de login donde el usuario o se registra como un renter o inicia sesión directamente, seguido pasa a la vista principal y deberá presionar la lupa para iniciar la búsqueda de un vehículo, identificar uno que sea de su preferencia y presionar más detalles, esto mostrará los detalles del vehículo y si es de su gusto podrá alquilarlo con el botón inferior dentro de los detalles de vehículo.
 
 ![](Resources/images/mobile/rentCar.png)
 
 - Rate Up
+Para realizar la calificación de un vehículo se deberá haber reservado un vehículo y que haya terminado su reservación. El flujo inicia en la vista de login donde el usuario o se registra como un renter o inicia sesión directamente, seguido pasa a la vista principal y deberá presionar el botón de vehículo donde le mostrará las reservaciones realizadas y deberá presionar el botón de rate up o calificar donde se mostrará un cuadro donde tendrá la posibilidad de poner estrellas y dejar un comentario si lo desea.
 
 ![](Resources/images/mobile/rateUp.png)
 
