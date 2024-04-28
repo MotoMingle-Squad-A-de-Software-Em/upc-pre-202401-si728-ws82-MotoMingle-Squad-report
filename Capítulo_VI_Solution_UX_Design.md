@@ -5,7 +5,27 @@ Con conocimientos previos de cursos anteriores, se determina estilos fundamental
 -	Branding: Se presenta el logo de nuestro producto:
 
  	 ![](Resources/images/logo.png)
+
+  -	Colors: Como se mencionó en la sección de Branding, decidimos utilizar principalmente el color Azul. A continuación, se mostrará la combinación de colores con sus respectivos códigos.
+  
+   ![](Resources/images/colors.png)
+
 ### 6.1.2. Web, Mobile & Devices Style Guidelines.
+
+- Paleta de Colores: En este apartado se muestra la guía de la paleta de colores, tantos primarios, secundarios y grises.
+  
+- Colores Primarios: Optamos por escoger el color azul ya que es señal de confianza, seguridad y etc. A continuación, se mostrará el color principal.
+
+   ![](Resources/images/colors.png)
+
+-	Typography:
+
+  ![](Resources/images/tipo.png)
+
+- Spacing:
+  
+  ![](Resources/images/space.png)
+
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
 ### 6.2.3. Searching Systems.
