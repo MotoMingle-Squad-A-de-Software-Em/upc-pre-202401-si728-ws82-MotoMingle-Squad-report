@@ -37,10 +37,15 @@ El wireframe de la página de destino es una representación esquemática que si
 
   ![](Resources/images/desktop1.png)
   ![](Resources/images/desktop2.png)
+  
   ![](Resources/images/mobile1.png)
+  
   ![](Resources/images/mobile2.png)
+  
   ![](Resources/images/mobile3.png)
+  
   ![](Resources/images/mobile4.png)
+  
   ![](Resources/images/mobile5.png)
   
 ### 6.3.2. Landing Page Mock-up.
