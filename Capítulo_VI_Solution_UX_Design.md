@@ -20,11 +20,11 @@ Con conocimientos previos de cursos anteriores, se determina estilos fundamental
 
 -	Typography:
 
-  ![](Resources/images/tipo.png)
+   ![](Resources/images/tipo.png)
 
 - Spacing:
   
-  ![](Resources/images/space.png)
+   ![](Resources/images/space.png)
 
 ## 6.2. Information Architecture.
 ### 6.2.2. Labeling Systems.
@@ -33,6 +33,8 @@ Con conocimientos previos de cursos anteriores, se determina estilos fundamental
 ### 6.2.5. Navigation Systems.
 ## 6.3. Landing Page UI Design.
 ### 6.3.1. Landing Page Wireframe.
+El wireframe de la página de destino es una representación esquemática que sirve como la columna vertebral del diseño visual y la funcionalidad de la página. En esta sección, detallamos el proceso de creación del wireframe, enfocándonos en la estructuración del contenido, la navegación intuitiva y la optimización de la experiencia del usuario. Los wireframes son fundamentales para asegurar que todos los elementos esenciales estén bien posicionados antes de avanzar a la etapa de diseño más detallado, permitiendo ajustes fáciles y proporcionando una clara visualización de la distribución de los componentes de la página.
+
 ### 6.3.2. Landing Page Mock-up.
 ## 6.4. Applications UX/UI Design.
 ### 6.4.1. Applications Wireframes.
