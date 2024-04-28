@@ -37,8 +37,19 @@ El wireframe de la página de destino es una representación esquemática que si
 
   ![](Resources/images/desktop1.png)
   ![](Resources/images/desktop2.png)
-
+  ![](Resources/images/mobile1.png)
+  ![](Resources/images/mobile2.png)
+  ![](Resources/images/mobile3.png)
+  ![](Resources/images/mobile4.png)
+  ![](Resources/images/mobile5.png)
+  
 ### 6.3.2. Landing Page Mock-up.
+Tras establecer un wireframe sólido, el siguiente paso es transformarlo en un mock-up más detallado de la página de destino. Esta sección cubre el proceso de diseño del mock-up, donde aplicamos colores, tipografías y otros elementos visuales que reflejan la identidad de la marca. El mock-up es crucial para visualizar el resultado final del diseño web antes de la implementación técnica, permitiendo una revisión exhaustiva y la oportunidad de realizar mejoras estéticas y funcionales antes del desarrollo final.
+ 
+  ![](Resources/images/web1.png)
+  ![](Resources/images/web2.png)
+  ![](Resources/images/web3.png)
+
 ## 6.4. Applications UX/UI Design.
 ### 6.4.1. Applications Wireframes.
 #### 6.4.1.1. Applications Wireframes (Web).
