@@ -65,56 +65,56 @@ A continuación, se muestran los Wireframes de la Aplicación para cada una de l
 
 **Sección de inicio de sesión y registro en página de bienvenida**  
 En esta sección el usuario está en la pagina de bienvenida y puede iniciar sesión desde la página, si no tiene ninguna cuenta, puede registrarse desde esa sección.
-![](Resources/images/web/bienvenida1.png)
-![](Resources/images/web/bienvenida2.png)
-![](Resources/images/web/bienvenida3.png)
-![](Resources/images/web/bienvenida4.png)
+![](Resources/images/web/bienvenida1.PNG)
+![](Resources/images/web/bienvenida2.PNG)
+![](Resources/images/web/bienvenida3.PNG)
+![](Resources/images/web/bienvenida4.PNG)
 
 **Sección de registro de usuarios**  
 En esta sección podrá el usuario iniciar sesión y registrarse.
-![](Resources/images/web/iniciarsesion.png)
-![](Resources/images/web/registrar.png)
-![](Resources/images/web/registrar2.png)
+![](Resources/images/web/iniciarsesion.PNG)
+![](Resources/images/web/registrar.PNG)
+![](Resources/images/web/registrar2.PNG)
 
 **Sección de alquilar un automóvil**  
 En esta sección, el usuario podrá alquilar un automóvil, además de filtrar la busqueda a su gusto. También podrá calificar el vehículo o dejar un comentario.
-![](Resources/images/web/rentar.png)
-![](Resources/images/web/rentar2.png)
-![](Resources/images/web/rentar3.png)
-![](Resources/images/web/rentar4.png)
-![](Resources/images/web/rentar5.png)
-![](Resources/images/web/rentar6.png)
+![](Resources/images/web/rentar.PNG)
+![](Resources/images/web/rentar2.PNG)
+![](Resources/images/web/rentar3.PNG)
+![](Resources/images/web/rentar4.PNG)
+![](Resources/images/web/rentar5.PNG)
+![](Resources/images/web/rentar6.PNG)
 
 **Publicación de automóvil**  
 En esta sección el usuario podrá publicar sus automóviles, pero no antes de pagar la suscripción.
-![](Resources/images/web/misautos.png)
-![](Resources/images/web/misautos2.png)
-![](Resources/images/web/misautos3.png)
-![](Resources/images/web/misautos4.png)
-![](Resources/images/web/misautos5.png)
+![](Resources/images/web/misautos.PNG)
+![](Resources/images/web/misautos2.PNG)
+![](Resources/images/web/misautos3.PNG)
+![](Resources/images/web/misautos4.PNG)
+![](Resources/images/web/misautos5.PNG)
 
 **Sección mis rentas**  
 En esta sección el usuario podrá visualizar sus autos que se encuentran en rentas.
-![](Resources/images/web/misrentas.png)
+![](Resources/images/web/misrentas.PNG)
 
 **Sección mis reservas**  
 En esta sección el usuario podrá visualizar sus autos que se encuentran en reserva, donde podrá editar sus documentos o eliminar mientras se está en espera.
-![](Resources/images/web/misreservas.png)
-![](Resources/images/web/misreservas2.png)
-![](Resources/images/web/misreservas3.png)
-![](Resources/images/web/misreservas4.png)
+![](Resources/images/web/misreservas.PNG)
+![](Resources/images/web/misreservas2.PNG)
+![](Resources/images/web/misreservas3.PNG)
+![](Resources/images/web/misreservas4.PNG)
 
 **Sección de mis mantenimientos**  
 En esta sección el usuario tiene la posibilidad de gestionar los mantenimientos realizados en los vehículos de RentCarAssist y de prestar sus servicios.
-![](Resources/images/web/mismantenimientos.png)
-![](Resources/images/web/mismantenimientos2.png)
+![](Resources/images/web/mismantenimientos.PNG)
+![](Resources/images/web/mismantenimientos2.PNG)
 
-**Sección de estadísticas**
+**Sección de estadísticas**  
 En esta sección el usuario podrá visualizar las estadísticas de los ingresos y usos de la renta de su auto.
-![](Resources/images/web/estadisticas.png)
-![](Resources/images/web/estadisticas2.png)
-![](Resources/images/web/estadisticas3.png)
-![](Resources/images/web/estadisticas4.png)
+![](Resources/images/web/estadisticas.PNG)
+![](Resources/images/web/estadisticas2.PNG)
+![](Resources/images/web/estadisticas3.PNG)
+![](Resources/images/web/estadisticas4.PNG)
 
 #### 6.4.1.2. Applications Wireframes (Mobile).
 
