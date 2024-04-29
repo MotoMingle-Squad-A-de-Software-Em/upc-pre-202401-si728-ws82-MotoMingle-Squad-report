@@ -159,7 +159,45 @@ Vista de la información del perfil creado dentro de la aplicación
 ![](Resources/images/mobile/profileView.png)
 
 ### 6.4.2. Applications Wireflow Diagrams.
+En esta sección, presentamos los Diagramas de Flujo de la Aplicación (Applications Wireflow Diagrams) para nuestra plataforma de alquiler de automóviles. Estos diagramas proporcionan una representación visual y detallada del flujo de interacción entre las diversas pantallas y funcionalidades de la aplicación. Los Wireflow Diagrams facilitan la comprensión del proceso de navegación, la interacción entre los componentes y la lógica de la aplicación, tanto para el equipo de desarrollo como para los interesados.
+
+Los Diagramas de Flujo de la Aplicación son esenciales para garantizar que todas las funcionalidades y características clave de la plataforma, como la reservar un auto, login, register, calificacion, suscripción, publicar un vehiculo, busqueda y filtrado de vechiulos publicados, evaluar datos para un mecanico, y mantenimiento proporcionada por los mecánicos, estén claramente representadas y bien organizadas.
+
+A continuación, se muestran algunos Diagramas de Flujo de rentCarAssits para cada una de las áreas clave de nuestra plataforma de alquiler de automóviles. Estos diagramas ayudarán a guiar el proceso de desarrollo, asegurando una implementación eficiente y efectiva de nuestra solución de alquiler de vehículos.
+
 #### 6.4.2.1. Applications Wireflow (Web).
+- Usuario se registra
+El flujo del usuario de registrarse, cualquier usuario, ya sea arrendador, arrendatario o mecánico, podrá registrarse de la misma manera, para ello tendrá que rellenar con sus datos para poder registrarse, la foto es opcional.
+![](Resources/images/web/Wireflow1.PNG)
+
+- Usuario se registra meidante pnatalla de bienvenida
+En este flujo, el usuario podrá registrarse estando en la pantalla de bienvenida, podrá iniciar sesión o registrarse, para ello, desde la página de bienvenida, tendrá que presionar el botón de Iniciar sesión, y de allí podrá iniciar sesión o registrase, presionando la palabra "Regístrate".
+![](Resources/images/web/Wireflow2.PNG)
+
+- Usuario inicia sesión mediante pantalla de bienvenida
+En este flujo, el usuario está en la pantalla de bienvenida, presionando el botón de iniciar sesión entrará en el formulario de log in, teniendo una cuenta podrá ingresar a la plataforma. 
+![](Resources/images/web/Wireflow3.PNG)
+
+- Usuario arrendador publica un auto en alquiler
+En este flujo, el usuario podrá publicar un auto, comprando un plan de suscripción de la plataforma, podrá elegir de 3 opciones, después de ello, podrá publicar su auto a alquilar, rellenando con las caracteristicas del auto.
+![](Resources/images/web/Wireflow4.PNG)
+
+- Usuario arrendatario califica a un arrendador
+En este flujo, el usuario podrá calificar el servicio de renta del vehículo. Ingresando a los detalles del auto, donde podrá dejar su comentario y calificación mediante estrellas.
+![](Resources/images/web/Wireflow5.PNG)
+
+- Usuario arrendador visualiza las estadísticas de sus rentas
+En este flujo, el usuario, comprando un plan de suscripción de la plataforma, podrá revisar o mirar las estadisticas de sus ventas y sus rentas recopilados.
+![](Resources/images/web/Wireflow6.PNG)
+
+- Usuario arrendatario revisa sus rentas
+En este flujo, el usuario verá sus rentas, y con los posibles fallos que puede ocurrir.
+![](Resources/images/web/Wireflow7.PNG)
+
+- Usuario arrendatario revisa sus reservas
+En este flujo, el usuario verá sus reservas, mientras que esté esperando a que acepte, podrá cancelar o editar los documentos para su renta.
+![](Resources/images/web/Wireflow8.PNG)
+
 #### 6.4.2.2. Applications Wireflow (Mobile).
 En cuanto a las wireflow o flujos de la aplicación en dispositivos móviles se tuvieron en cuenta las más principales las cuales son addCar o agregar un vehiculo a la palicación, rentCar o alquilar un carro desde la aplicación y rateUp o calificar un servicio dentro de la aplicación, a continuación presentamos los flujos:
 
