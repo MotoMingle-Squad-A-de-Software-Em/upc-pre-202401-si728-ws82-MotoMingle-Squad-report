@@ -27,10 +27,45 @@ Con conocimientos previos de cursos anteriores, se determina estilos fundamental
    ![](Resources/images/space.png)
 
 ## 6.2. Information Architecture.
+### 6.2.1. Organization Systems.
+La información, que mostraremos en la plataforma, es informativa en un primer momento, ya que el usuario debe saber el servicio que brindamos y de qué manera funciona. Durante el proceso de funcionamiento se organizó de manera secuencial, a través de eventos en un orden establecido que nos dirige a los end-points que han sido fijados. Esto puede evidenciar en nuestro evento más importante, que es el alquilar un vehículo, ya que primero debemos iniciar sesión para seguir con el proceso de arriendo. Además, durante su búsqueda, los vehículos se mostrarán según la popularidad de los clientes, que depende de las expectativas y resultados de los usuarios sobre los vehículos alquilados.
+
 ### 6.2.2. Labeling Systems.
+Las interfaces para los usuarios son de complejidad sencilla, ya que los datos presentados serán entendidos de manera rápida. Por un lado, en el segmento de clientes, ellos tienen opciones básicas de configuración de su perfil. El sistema de arriendo se basa en la búsqueda de vehículos que cumplan con sus necesidades, finalizando con la coordinación de ambos segmentos y un contrato de por medio. Por otro lado, en el segmento de arrendadores, también cuentan con la organización de sus datos personales. Además, puede publicar y administrar los anuncios de sus vehículos de manera rápida y sencilla. El sistema automatiza muchas tareas que de manera tradicional se tornaría tedioso y complicado.
+
+[![image.png](https://i.postimg.cc/qvcXm46X/image.png)](https://postimg.cc/0zQwjgfb)
+
 ### 6.2.3. Searching Systems.
+La funcionalidad de búsqueda es más relevante para los clientes que buscan los vehículos. Estos se dirigen a la barra de búsqueda donde escriben las características, marca, modelo o tipo de vehículo. Además, cuentan con filtros combinados para tener un resultado del vehículo que se acople más a sus necesidades. Los resultados se muestran en una matriz, donde se visualiza la imagen principal del vehículo, y unos pequeños detalles de este. En el caso del arrendador, adicional a la funcionalidad mencionada, puede hacer pequeñas búsquedas sobre anuncios publicados de sus vehículos y la lista de contratos realizados. También, ambos pueden buscar los mensajes enviados o respondidos.
+
 ### 6.2.4. SEO Tags and Meta Tags.
+En esta sección, se incluyen las etiquetas SEO (Search Engine Optimization), Meta Tags y ASO (App Store Optimization) que se asignarán en las principales aplicaciones de nuestra plataforma, tanto en el sitio web estático (Landing Page) como en las aplicaciones web y móviles. Estas etiquetas y elementos son esenciales para mejorar la visibilidad en los motores de búsqueda y las tiendas de aplicaciones, atrayendo así a más usuarios a nuestro servicio de alquiler de automóviles.
+
+Para las aplicaciones web, incluiremos al menos las siguientes etiquetas:
+
+1. Title:  
+[![image.png](https://i.postimg.cc/FK9b88jt/image.png)](https://postimg.cc/jDFJJ8gv)
+
+2. Meta Tags:
+- Description:  
+[![image.png](https://i.postimg.cc/ydGFJN2B/image.png)](https://postimg.cc/62d7gB91)
+
+- Keywords:  
+[![image.png](https://i.postimg.cc/kGtWWmdS/image.png)](https://postimg.cc/BP48GRbZ)
+
+- Author:
+[![image.png](https://i.postimg.cc/bdckTBzB/image.png)](https://postimg.cc/jncDqvnH)
+
+App mobile:
+- App Title: "Alquiler de Automóviles - Reserva y Conduce"
+- App Keywords: "alquiler de coches, reserva de vehículos, plataforma de alquiler, asistencia mecánica, servicios adicionales"
+- App Subtitle: "Encuentra y reserva vehículos fácilmente"
+- App Description: "Bienvenido a nuestra aplicación de alquiler de automóviles, la solución perfecta para encontrar y reservar vehículos de manera rápida y sencilla. Navega por nuestra amplia selección de coches disponibles y elige el que mejor se adapte a tus necesidades. Con nuestra plataforma, disfrutarás de asistencia mecánica y servicios adicionales para garantizar una experiencia de alquiler sin preocupaciones. ¡Descarga nuestra aplicación ahora y comienza a conducir!"  
+Al incluir estas etiquetas y elementos en nuestras aplicaciones web y aplicaciones móviles, mejoramos la visibilidad en motores de búsqueda y tiendas de aplicaciones, atrayendo a más usuarios a nuestro servicio de alquiler de automóviles y asegurando un crecimiento constante y éxito en el mercado.
+
 ### 6.2.5. Navigation Systems.
+La Landing Page presenta la información más importante del servicio que brindamos. Se explica el objetivo del proyecto, los beneficios y servicios que están a su disposición. Además, se anuncian nuestros planes dentro de la plataforma y pueden ver las características de cada uno. La funcionalidad más relevante es el sistema de arriendo, ya que podrán seleccionar sus mejores opciones entre todos los que cumplan sus necesidades, pueden visualizar los detalles de los vehículos y coordinar un contrato para que sea beneficioso para ambos. Finalmente, brindamos la información del equipo y del proyecto.
+
 ## 6.3. Landing Page UI Design.
 ### 6.3.1. Landing Page Wireframe.
 El wireframe de la página de destino es una representación esquemática que sirve como la columna vertebral del diseño visual y la funcionalidad de la página. En esta sección, detallamos el proceso de creación del wireframe, enfocándonos en la estructuración del contenido, la navegación intuitiva y la optimización de la experiencia del usuario. Los wireframes son fundamentales para asegurar que todos los elementos esenciales estén bien posicionados antes de avanzar a la etapa de diseño más detallado, permitiendo ajustes fáciles y proporcionando una clara visualización de la distribución de los componentes de la página.
