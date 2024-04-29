@@ -6,7 +6,7 @@
 | TP | 29/04/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se agregó el Attribute-Driven Design Inputs que faltaba de la anterior entrega, y se agregó todo lo incluido para la entrega de la TP |
 
 # Project Report Collaboration Insights
-
+La realización del informe se realizó en el formato Markdown, donde cada integrante subió sus avances, haciendo commit en el repositorio del [proyecto](https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report/tree/develop)
 
 # STUDENT OUTCOME
 
