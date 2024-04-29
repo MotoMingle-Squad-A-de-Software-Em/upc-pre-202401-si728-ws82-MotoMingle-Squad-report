@@ -51,7 +51,7 @@ Para las aplicaciones web, incluiremos al menos las siguientes etiquetas:
 - Keywords:  
 [![image.png](https://i.postimg.cc/kGtWWmdS/image.png)](https://postimg.cc/BP48GRbZ)
 
-- Author:
+- Author:  
 [![image.png](https://i.postimg.cc/bdckTBzB/image.png)](https://postimg.cc/jncDqvnH)
 
 App mobile:
