@@ -33,8 +33,6 @@ La información, que mostraremos en la plataforma, es informativa en un primer m
 ### 6.2.2. Labeling Systems.
 Las interfaces para los usuarios son de complejidad sencilla, ya que los datos presentados serán entendidos de manera rápida. Por un lado, en el segmento de clientes, ellos tienen opciones básicas de configuración de su perfil. El sistema de arriendo se basa en la búsqueda de vehículos que cumplan con sus necesidades, finalizando con la coordinación de ambos segmentos y un contrato de por medio. Por otro lado, en el segmento de arrendadores, también cuentan con la organización de sus datos personales. Además, puede publicar y administrar los anuncios de sus vehículos de manera rápida y sencilla. El sistema automatiza muchas tareas que de manera tradicional se tornaría tedioso y complicado.
 
-[![image.png](https://i.postimg.cc/qvcXm46X/image.png)](https://postimg.cc/0zQwjgfb)
-
 ### 6.2.3. Searching Systems.
 La funcionalidad de búsqueda es más relevante para los clientes que buscan los vehículos. Estos se dirigen a la barra de búsqueda donde escriben las características, marca, modelo o tipo de vehículo. Además, cuentan con filtros combinados para tener un resultado del vehículo que se acople más a sus necesidades. Los resultados se muestran en una matriz, donde se visualiza la imagen principal del vehículo, y unos pequeños detalles de este. En el caso del arrendador, adicional a la funcionalidad mencionada, puede hacer pequeñas búsquedas sobre anuncios publicados de sus vehículos y la lista de contratos realizados. También, ambos pueden buscar los mensajes enviados o respondidos.
 
