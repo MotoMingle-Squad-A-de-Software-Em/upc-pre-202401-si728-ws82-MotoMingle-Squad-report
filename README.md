@@ -15,11 +15,7 @@ Profesor: Royer Edelwer Rojas Malasquez
 
 Ciclo: 2024-1
 
----
-
 # COURSE PROJECT
-
----
 
 ## FINAL REPORT
 
