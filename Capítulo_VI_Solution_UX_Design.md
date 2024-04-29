@@ -166,35 +166,35 @@ Los Diagramas de Flujo de la Aplicación son esenciales para garantizar que toda
 A continuación, se muestran algunos Diagramas de Flujo de rentCarAssits para cada una de las áreas clave de nuestra plataforma de alquiler de automóviles. Estos diagramas ayudarán a guiar el proceso de desarrollo, asegurando una implementación eficiente y efectiva de nuestra solución de alquiler de vehículos.
 
 #### 6.4.2.1. Applications Wireflow (Web).
-- Usuario se registra
+- Usuario se registra  
 El flujo del usuario de registrarse, cualquier usuario, ya sea arrendador, arrendatario o mecánico, podrá registrarse de la misma manera, para ello tendrá que rellenar con sus datos para poder registrarse, la foto es opcional.
 ![](Resources/images/web/Wireflow1.PNG)
 
-- Usuario se registra meidante pnatalla de bienvenida
+- Usuario se registra meidante pnatalla de bienvenida  
 En este flujo, el usuario podrá registrarse estando en la pantalla de bienvenida, podrá iniciar sesión o registrarse, para ello, desde la página de bienvenida, tendrá que presionar el botón de Iniciar sesión, y de allí podrá iniciar sesión o registrase, presionando la palabra "Regístrate".
 ![](Resources/images/web/Wireflow2.PNG)
 
-- Usuario inicia sesión mediante pantalla de bienvenida
+- Usuario inicia sesión mediante pantalla de bienvenida  
 En este flujo, el usuario está en la pantalla de bienvenida, presionando el botón de iniciar sesión entrará en el formulario de log in, teniendo una cuenta podrá ingresar a la plataforma. 
 ![](Resources/images/web/Wireflow3.PNG)
 
-- Usuario arrendador publica un auto en alquiler
+- Usuario arrendador publica un auto en alquiler  
 En este flujo, el usuario podrá publicar un auto, comprando un plan de suscripción de la plataforma, podrá elegir de 3 opciones, después de ello, podrá publicar su auto a alquilar, rellenando con las caracteristicas del auto.
 ![](Resources/images/web/Wireflow4.PNG)
 
-- Usuario arrendatario califica a un arrendador
+- Usuario arrendatario califica a un arrendador  
 En este flujo, el usuario podrá calificar el servicio de renta del vehículo. Ingresando a los detalles del auto, donde podrá dejar su comentario y calificación mediante estrellas.
 ![](Resources/images/web/Wireflow5.PNG)
 
-- Usuario arrendador visualiza las estadísticas de sus rentas
+- Usuario arrendador visualiza las estadísticas de sus rentas  
 En este flujo, el usuario, comprando un plan de suscripción de la plataforma, podrá revisar o mirar las estadisticas de sus ventas y sus rentas recopilados.
 ![](Resources/images/web/Wireflow6.PNG)
 
-- Usuario arrendatario revisa sus rentas
+- Usuario arrendatario revisa sus rentas  
 En este flujo, el usuario verá sus rentas, y con los posibles fallos que puede ocurrir.
 ![](Resources/images/web/Wireflow7.PNG)
 
-- Usuario arrendatario revisa sus reservas
+- Usuario arrendatario revisa sus reservas  
 En este flujo, el usuario verá sus reservas, mientras que esté esperando a que acepte, podrá cancelar o editar los documentos para su renta.
 ![](Resources/images/web/Wireflow8.PNG)
 
