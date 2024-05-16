@@ -249,3 +249,9 @@ Para realizar la calificación de un vehículo se deberá haber reservado un veh
 
 ![](Resources/images/mobile/rateUp.png)
 
+### 6.4.3. Applications Mock-ups.
+#### 6.4.3.1 Applications Mock-ups (Web).
+#### 6.4.3.2 Applications Mock-ups (Mobile).
+### 6.4.4. Applications User Flow Diagrams
+
+## 6.5. Applications Prototyping.
