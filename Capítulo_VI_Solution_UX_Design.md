@@ -305,6 +305,39 @@ En esta sección el usuario podrá visualizar las estadísticas de los ingresos 
 ![](Resources/images/web-mock-ups/estadisticas4.PNG)
 
 #### 6.4.3.2 Applications Mock-ups (Mobile).
-### 6.4.4. Applications User Flow Diagrams
+### 6.4.4. Applications User Flow Diagrams.
+#### 6.4.4.1 Applications User Flow Diagrams (Web).
+**User Goal: Usuario se registra**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario registrándose en la página web, mostrando todos los posibles unhappy paths como ingresar un correo electrónico ya existente o error a subir una imagen para el perfil. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen.  
+![](Resources/images/web-mock-ups/userflow1.PNG)
 
+**User Goal: Usuario se registra mediante pantalla de bienvenida**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario se registra mediante la página de bienvenida, mostrando todos los posibles unhappy paths como ingresar un correo electrónico ya existente o error a subir una imagen para el perfil. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen hasta llegar a la selección de tipo de usuario donde pasaría al registro de datos específicos.  
+![](Resources/images/web-mock-ups/userflow2.PNG)
+
+**User Goal: Usuario inicia sesion mediante pantalla de bienvenida**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario inicia sesión mediante la pantalla de bienvenida, mostrando todos los posibles unhappy paths como ingresar un usuario no existente o una contraseña que no coincida con el usuario. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen.  
+![](Resources/images/web-mock-ups/userflow3.PNG)
+
+**User Goal: Usuario arrendador publica un auto en alquiler**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendador publicando su auto en alquiler, mostrando todos los posibles unhappy paths como obtener un error al subir imágenes de su automovill. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen.  
+![](Resources/images/web-mock-ups/userflow4.PNG)
+
+**User Goal: Usuario arrendatario califica a un arrendador**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendatario califica a un arrendador, mostrando como el arrendatario califica según su experiencia y poniendo comentarios a ello.  
+![](Resources/images/web-mock-ups/userflow5.PNG)
+
+**User Goal: Usuario arrendador visualiza las estadísticas de sus rentas**  
+En el siguiente User Flow Diagram se grafico el user goal del usuario arrendador visualiza las estadísticas de sus rentas , mostrando los posibles unhappy paths como cuando no se llenan los campos completos o en el caso de que haya ocurrido algún error en general así como el happy path que al ingresar los datos correctos y completos te redirige a la pantalla de estadísticas.  
+![](Resources/images/web-mock-ups/userflow6.PNG)
+
+**User Goal: Usuario arrendatario revisa sus rentas**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendatario revisa sus rentas, mostrando los posibles unhappy paths como cuando se obtiene un error en particular con el servidor o un problema de conexión y el happy path el cual nos lleva a la pantalla principal de las rentas.  
+![](Resources/images/web-mock-ups/userflow7.PNG)
+
+**User Goal: Usuario arrendatario revisa sus reservas**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendatario revisa sus rentas, mostrando los posibles unhappy paths como cuando se obtiene un error en particular con el servidor o un problema de conexión y el happy path el cual nos lleva a la pantalla principal de las reservas.  
+![](Resources/images/web-mock-ups/userflow8.PNG)
+
+#### 6.4.4.2 Applications User Flow Diagrams (Mobile).
 ## 6.5. Applications Prototyping.
