@@ -251,6 +251,59 @@ Para realizar la calificación de un vehículo se deberá haber reservado un veh
 
 ### 6.4.3. Applications Mock-ups.
 #### 6.4.3.1 Applications Mock-ups (Web).
+**Sección de inicio de sesión y registro en página de bienvenida:**  
+En esta sección el usuario está en la página de bienvenida donde puede ver toda la información sobre RentCarAssit y puede iniciar sesión desde esa sección e ingresar a su cuenta, pero si no posee una cuenta con la que puede iniciar sesion, puede registrarse desde esa seccion.  
+![](Resources/images/web-mock-ups/bienvenida1.PNG)
+![](Resources/images/web-mock-ups/bienvenida2.PNG)
+![](Resources/images/web-mock-ups/bienvenida3.PNG)
+![](Resources/images/web-mock-ups/bienvenida4.PNG)
+
+**Sección de registro de usuarios:**  
+En esta sección se puede ver el flujo del registro donde al inicio se debe ingresar datos generales del usuario, luego elegir qué tipo de usuario es, luego se le presentara la sección de ingreso de datos específicos dependiendo de que usuario haya escogido.  
+![](Resources/images/web-mock-ups/IniciarSesion.PNG)
+![](Resources/images/web-mock-ups/Registrar.PNG)
+![](Resources/images/web-mock-ups/Registrar2.PNG)
+
+**Sección de alquilar un automóvil:**  
+El usuario arrendador al momento de ingresar a su cuenta podrá ver una lista de autos en alquilar los que puede elegir, además de poder filtrar la búsqueda con sus gustos. Luego de seleccionar un carro, aparecerá la información más detallada y el costo del auto. Luego de haber realizado la selección del carro tendrá que realizar el pago por la cantidad de día que se alquilará el carro y se mostrar un mensaje de existo. Al final podra ver un listado de todos los autos que han alquilado.  
+![](Resources/images/web-mock-ups/Rentar.PNG)
+![](Resources/images/web-mock-ups/Rentar2.PNG)
+![](Resources/images/web-mock-ups/Rentar3.PNG)
+![](Resources/images/web-mock-ups/Rentar4.PNG)
+![](Resources/images/web-mock-ups/Rentar5.PNG)
+![](Resources/images/web-mock-ups/Rentar6.PNG)
+
+**Publicación de automóvil:**  
+En esta sección el usuario arrendador para poder publicar sus automóviles en alquiler debe seleccionar un plan de suscripción, y luego se tiene la posibilidad de realizar publicaciones de sus automoviles para alquilar y poder ver una lista de los autos que ha subido.  
+![](Resources/images/web-mock-ups/misautos.PNG)
+![](Resources/images/web-mock-ups/misautos2.PNG)
+![](Resources/images/web-mock-ups/misautos3.PNG)
+![](Resources/images/web-mock-ups/misautos4.PNG)
+![](Resources/images/web-mock-ups/misautos5.PNG)
+
+**Sección mis Rentas:**  
+En esta sección el usuario podrá visualizar sus autos que se encuentran en rentas, donde podrán visualizar ciertos detalles de lo autos, así como visualizar el estado en el cual se encuentren según su renta.  
+![](Resources/images/web-mock-ups/misrentas.PNG)
+
+**Sección mis reservas:**  
+En esta sección el usuario podrá visualizar sus autos que se encuentran en reserva, donde podrán visualizar ciertos detalles de lo autos, así como visualizar el estado en el cual se encuentren según su reserva.  
+![](Resources/images/web-mock-ups/misreservas.PNG)
+![](Resources/images/web-mock-ups/misreservas2.PNG)
+![](Resources/images/web-mock-ups/misreservas3.PNG)
+![](Resources/images/web-mock-ups/misreservas4.PNG)
+
+**Sección de mis mantenimientos:**  
+En esta sección el usuario tiene la posibilidad de gestionar los mantenimientos realizados en los vehículos de RentCarAssist y puede confirmar que el mantenimiento ya ha sido realizado para que el dueño de el vehículo pueda ser notificado.  
+![](Resources/images/web-mock-ups/mismantenimientos.PNG)
+![](Resources/images/web-mock-ups/mismantenimientos2.PNG)
+
+**Sección de estadísticas:**  
+En esta sección el usuario podrá visualizar las estadísticas de los ingresos y usos de la renta de su auto, para ello podrá elegir entre los 3 planes que nosotros contamos y poder realizar el pago de una de ellas, para así poder tener la visualización.  
+![](Resources/images/web-mock-ups/estadisticas.PNG)
+![](Resources/images/web-mock-ups/estadisticas2.PNG)
+![](Resources/images/web-mock-ups/estadisticas3.PNG)
+![](Resources/images/web-mock-ups/estadisticas4.PNG)
+
 #### 6.4.3.2 Applications Mock-ups (Mobile).
 ### 6.4.4. Applications User Flow Diagrams
 
