@@ -253,10 +253,10 @@ Para realizar la calificación de un vehículo se deberá haber reservado un veh
 #### 6.4.3.1 Applications Mock-ups (Web).
 **Sección de inicio de sesión y registro en página de bienvenida:**  
 En esta sección el usuario está en la página de bienvenida donde puede ver toda la información sobre RentCarAssit y puede iniciar sesión desde esa sección e ingresar a su cuenta, pero si no posee una cuenta con la que puede iniciar sesion, puede registrarse desde esa seccion.  
-![](Resources/images/web-mock-ups/bienvenida1.PNG)
-![](Resources/images/web-mock-ups/bienvenida2.PNG)
-![](Resources/images/web-mock-ups/bienvenida3.PNG)
-![](Resources/images/web-mock-ups/bienvenida4.PNG)
+![](Resources/images/web-mock-ups/Bienvenida1.PNG)
+![](Resources/images/web-mock-ups/Bienvenida2.PNG)
+![](Resources/images/web-mock-ups/Bienvenida3.PNG)
+![](Resources/images/web-mock-ups/Bienvenida4.PNG)
 
 **Sección de registro de usuarios:**  
 En esta sección se puede ver el flujo del registro donde al inicio se debe ingresar datos generales del usuario, luego elegir qué tipo de usuario es, luego se le presentara la sección de ingreso de datos específicos dependiendo de que usuario haya escogido.  
