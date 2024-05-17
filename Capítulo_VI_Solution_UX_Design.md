@@ -341,3 +341,6 @@ En el siguiente User Flow Diagram se graficó el user goal del usuario arrendata
 
 #### 6.4.4.2 Applications User Flow Diagrams (Mobile).
 ## 6.5. Applications Prototyping.
+**Prototype Web**  
+Se visualizará la explicación del prototipo de la aplicación web, mostrando las secciones más importantes para la aplicación.  
+[![Prototipo-web](https://img.youtube.com/vi/eX8iO46c-AA/0.jpg)](https://youtu.be/eX8iO46c-AA)
