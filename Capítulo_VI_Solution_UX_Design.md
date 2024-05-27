@@ -365,4 +365,5 @@ Se visualizará la explicación del prototipo de la aplicación web, mostrando l
 
 **Prototype Mobile**
 Se realizó una desmotración del prototipo en forma de vídeo mostrando las diferentes vistas y estructura de la aplicación móvil.
-[![Prototipo-web](https://img.youtube.com/vi/bQzBLwYhF4Q/0.jpg)]((https://youtu.be/bQzBLwYhF4Q))
+
+[![Mobile-prototype](https://img.youtube.com/vi/bQzBLwYhF4Q/0.jpg)]((https://youtu.be/bQzBLwYhF4Q))
