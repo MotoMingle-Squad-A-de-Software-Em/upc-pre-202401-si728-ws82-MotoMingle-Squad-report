@@ -147,6 +147,17 @@ Para más información sobre las convenciones de CSS se usará como referencia: 
 
 ### 7.1.4.	Software Deployment Configuration.
 
+Se utilizó la herramienta github para el control de versiones y ciclo de vida del proyecto.
+
+|Report|https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report|
+|------|------------------------------------------------------------------------------------------------------|
+
+|Backend|https://github.com/MotoMingle-Squad-A-de-Software-Em/Backend-RentCarAssits|
+|-------|--------------------------------------------------------------------------|
+
+|Frontend|https://github.com/MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits|
+|--------|---------------------------------------------------------------------------|
+
 ## 7.2.	Solution Implementation.
 
 ### 7.2.1.	Sprint 1
