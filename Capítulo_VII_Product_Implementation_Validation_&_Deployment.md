@@ -52,6 +52,99 @@ URL del repositorio de GitHub para cada producto: Landing Page, Web Services, Fr
 
 ### 7.1.3.	Source Code Style Guide & Conventions.
 
+Como convención general, todo el código realizado por los miembros del equipo debe redactarse en completo inglés.
+
+HTML
+•	Use Lowercase Element Name
+	Se recomienda usar lowercase para los nombres de los elementos HTML:
+
+	<body>
+		<p>Esto en un párrafo</p>
+	</body>
+
+•	Close All HTML Elements
+Se recomienda cerrar todos los elementos HTML:
+
+<body>
+	<p>Estos es un párrafo</p>
+	<p>Esto es otro párrafo</p>
+<body>
+
+•	Use Lowercase Attribute Names
+Se recomienda usar lowercase para los nombres de los atributos HTML:
+
+<a href=https://www.w3schools.com/html/”>Visit our HTML tutorial</a>
+
+
+•	Always Specify alt, width, and height for Images
+Se recomienda seguir estas convenciones en caso de que la imagen no se puede mostrar y ayudar con la accesibilidad del contenido:
+
+<img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+
+•	Spaces and Equal Signs
+Se recomienda no usar espacios en blanco entre las entidades para una mejor lectura:
+
+<link rel="stylesheet" href="styles.css">
+
+Para más información sobre las convenciones de HTML se usará como referencia: https://www.w3schools.com/html/html5_syntax.asp 
+
+CSS 
+
+•	ID and Class Naming 
+Usar nombres de clases y ID significativos que expresen el propósito del elemento:
+
+#gallery {}
+#login {}
+.video {}
+
+•	ID and Class Name Style 
+Usar nombres cortos para nombrar ID o clases, pero lo suficientemente largo para saber cuál es su propósito.
+
+#nav {} 
+.author {} 
+
+•	Shorthand Properties 
+Usar CSS shothand properties tanto como sea posible para que el código sea más eficiente y entendible: 
+
+border-top: 0;
+font: 100%/1.6 palatino, georgia, serif;
+padding: 0 1em 2em;
+
+•	0 and Units 
+Evitar la unidad después de usar 0 en valores que lo requieran:
+
+margin: 0;
+padding: 0; 
+
+•	ID and Class Name Delimiters
+Separar las palabras en ID y clases con un guión: 
+
+#video-id {} 
+.ads-sample {}
+
+•	Declaration Order 
+Colocar las declaraciones en orden alfabético para que sean fáciles de mantener y recordar
+
+background: fuchsia;
+border: 1px solid;
+border-radius: 4px;
+color: black;
+text-align: center;
+text-indent: 2em; 
+
+•	Selector and Declaration Separation
+Separar los selectores y declaraciones en nuevas líneas: 
+
+h1,
+h2,
+h3 { 
+font-weight: normal;
+ line-height: 1.2;
+}
+
+Para más información sobre las convenciones de CSS se usará como referencia: https://google.github.io/styleguide/htmlcssguide.html#CSS
+
+
 ### 7.1.4.	Software Deployment Configuration.
 
 ## 7.2.	Solution Implementation.
