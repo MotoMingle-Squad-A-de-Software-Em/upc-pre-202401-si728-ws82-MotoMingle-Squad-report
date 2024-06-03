@@ -17,7 +17,6 @@ Link de referencia: https://www.figma.com
 
 Software Development
 Las herramientas que utilizaremos para la implementación del proyecto son:
-
 Para el entorno de desarrollo Webstorm de JetBrains
 Link de referencia: https://www.jetbrains.com/es-es/webstorm/
 
@@ -28,6 +27,7 @@ Incluyendo la herramienta PrimeVue para una interfaz de usuario más rápida
 Link de referencia: https://primevue.org/
 
 Software Deployment
+
 Se ha utilizado Netlify para desplegar el Frontend a través de su funcionalidad de hosting.
 Link de referencia: https://www.netlify.com
 
