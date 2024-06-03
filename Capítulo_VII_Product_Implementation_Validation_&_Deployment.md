@@ -58,9 +58,9 @@ HTML
 •	Use Lowercase Element Name
 	Se recomienda usar lowercase para los nombres de los elementos HTML:
 
-	<body>
-		<p>Esto en un párrafo</p>
-	</body>
+<body>
+	<p>Esto en un párrafo</p>
+</body>
 
 •	Close All HTML Elements
 Se recomienda cerrar todos los elementos HTML:
