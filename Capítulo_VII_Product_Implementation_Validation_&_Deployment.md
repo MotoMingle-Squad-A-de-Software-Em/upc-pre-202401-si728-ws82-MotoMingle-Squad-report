@@ -178,22 +178,17 @@ El objetivo de este sprint 1 es empezar a implementar el frontend, landing page 
 | -------- | -------- | ---- | --- | ---- | ----- | ----- | ------- |
 | User Story |       | Work-Item / Task |       |    |     |      |        |
 | ID | Título | ID | Título | Description | Estimation (hours) | Assigned To | Status (To/do/ In Process / To-Review / Done) |
-| US043 | Usuario administrador añade un banner principal | - | Lading Page Banner | Implementar banner landing page | 5 | Toshiro | Done |
-| US044 | Usuario visitante visualiza los features de la plataform | - | Landing Page Features | Implementar sección features landing page | 3 | Toshiro | Done |
-| US045 | Usuario visitante compara planes y precios | - | Lading Page Planes | Implementar sección de planes y precios landing page | 3 | Toshiro | Done |
-| US046 | Usuario visitante accede a información adicional en el footer | - | Landing Page Footer | Implementar sección footer lading page | 3 | Toshiro | Done |
-| TA001 | Usuario se registra en la aplicación con usuario y contraseña | US001 | Mejorar los formularios de login y registro | 8 | Aquino | Done |
-| TA002 | Usuario completa su registro con sus datos personales | US002 | Mejorar las validaciones en la web de los formularios de login y register | 8 | Aquino | Done |
-| TA003 | Usuario se suscribe a un plan Basic, Premium, Vip | US006 <br> US007 <br> US008 | Mejorar la administración de los planes | 8 | Toshiro | In Process |
-| TA004 | Publicar, editar, eliminar anuncio de alquiler de auto. | US009 <br> US010 <br> US011 | Mejorar las vistas de publicar, eliminar y editar anuncios de autos | 8 | Cesías | In Process |
-| TA005 | Notificaciones de arrendamiento | US016 | Reimplementar Twilio y mejorar las noficaciones para los usuarios | 8 | Cesías | In Process |
+| US043 | Usuario administrador añade un banner principal | TA001 | Lading Page Banner | Implementar banner landing page | 5 | Toshiro | Done |
+| US044 | Usuario visitante visualiza los features de la plataform | TA001 | Landing Page Features | Implementar sección features landing page | 3 | Toshiro | Done |
+| US045 | Usuario visitante compara planes y precios | TA001 | Lading Page Planes | Implementar sección de planes y precios landing page | 3 | Toshiro | Done |
+| US046 | Usuario visitante accede a información adicional en el footer | TA001 | Landing Page Footer | Implementar sección footer lading page | 3 | Toshiro | Done |
 
 #### 7.2.1.3.	Development Evidence for Sprint Review.
 En esta parte del trabajo se presenta commits realizados por los miembros del equipo durante el sprint 1.  
 En primer lugar, se mostrarán la cantidad total de commits de cada integrante del equipo, incluye fix, update.
 
 | Integrante | Landing Page |
-| Ysique Lopez, Toshiro | 1 |
+| Cesías Díaz, Leonardo Paolo | 1 |
 
 #### 7.2.1.4.	Testing Suite Evidence for Sprint Review.
 
