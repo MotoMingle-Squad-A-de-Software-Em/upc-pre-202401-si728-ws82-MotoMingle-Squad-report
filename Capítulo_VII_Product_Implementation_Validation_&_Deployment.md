@@ -178,10 +178,10 @@ El objetivo de este sprint 1 es empezar a implementar el frontend, landing page 
 | -------- | -------- | ---- | --- | ---- | ----- | ----- | ------- |
 | User Story |       | Work-Item / Task |       |    |     |      |        |
 | ID | Título | ID | Título | Description | Estimation (hours) | Assigned To | Status (To/do/ In Process / To-Review / Done) |
-| US043 | Usuario administrador añade un banner principal | TA001 | Lading Page Banner | Implementar banner landing page | 5 | Toshiro | Done |
-| US044 | Usuario visitante visualiza los features de la plataform | TA001 | Landing Page Features | Implementar sección features landing page | 3 | Toshiro | Done |
-| US045 | Usuario visitante compara planes y precios | TA001 | Lading Page Planes | Implementar sección de planes y precios landing page | 3 | Toshiro | Done |
-| US046 | Usuario visitante accede a información adicional en el footer | TA001 | Landing Page Footer | Implementar sección footer lading page | 3 | Toshiro | Done |
+| US043 | Usuario administrador añade un banner principal | TA001 | Lading Page Banner | Implementar banner landing page | 5 | Cesías | Done |
+| US044 | Usuario visitante visualiza los features de la plataform | TA001 | Landing Page Features | Implementar sección features landing page | 3 | Cesías | Done |
+| US045 | Usuario visitante compara planes y precios | TA001 | Lading Page Planes | Implementar sección de planes y precios landing page | 3 | Cesías | Done |
+| US046 | Usuario visitante accede a información adicional en el footer | TA001 | Landing Page Footer | Implementar sección footer lading page | 3 | Cesías | Done |
 
 #### 7.2.1.3.	Development Evidence for Sprint Review.
 En esta parte del trabajo se presenta commits realizados por los miembros del equipo durante el sprint 1.  
