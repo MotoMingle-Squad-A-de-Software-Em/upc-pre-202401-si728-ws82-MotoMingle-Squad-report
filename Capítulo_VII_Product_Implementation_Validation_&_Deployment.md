@@ -26,9 +26,6 @@ Link de referencia: https://www.jetbrains.com/es-es/webstorm/
 Framework de Angular para el diseño (Frontend)
 Link de referencia: https://angular.io
 
-Incluyendo la herramienta PrimeVue para una interfaz de usuario más rápida
-Link de referencia: https://primevue.org/
-
 **Software Deployment**
 
 Se ha utilizado Netlify para desplegar el Frontend a través de su funcionalidad de hosting.
