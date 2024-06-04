@@ -205,15 +205,15 @@ Se presenta la tabla de commits con mayor relevancia:
 
 | Repository | Branch | Commit id | Commit Message | Commit Message Body | Commited on Date |
 | ---------- | ------ | --------- | -------------- | ------------------- | ---------------- |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 86dbbc4eac6dfc008447176d12652dd5780a3f8c | Fixed paths | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | b0a64da29f4d083bd63a50e24537c1b9f359ce0b | Test | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 52793683f37c6dd5962ebe0f62de585bf29ad692 | Merge branch 'main' of https://github.com/MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 7feb148036590fc48b2c2e58d1a9965eaf43dc57 | Fixed file | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 6d6a87679fd2c7b12590bd8db010adec97a23ed7 | Improved navbar in mycars view | 04/06/2024 | 
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 5f00a49dee90f34c340c9d1de320436ce9b76fe8 | Improved navbar in home view | 04/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 049a25c7e9c89abd0757c949388f0ff74e07b3ad | In the welcome component, add sign-in and sign-up | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | c91673b7a4b2514cb92a019a6cd5e27244bdbf14 | Update welcome component | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 35aeda6a232ad1fb1f8ce540b19b8b178b30cdfa | Cleaned code | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 86dbbc4eac6dfc008447176d12652dd5780a3f8c | Fixed paths | - | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | b0a64da29f4d083bd63a50e24537c1b9f359ce0b | Test | - | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 52793683f37c6dd5962ebe0f62de585bf29ad692 | Merge branch 'main' of https://github.com/MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | - | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 7feb148036590fc48b2c2e58d1a9965eaf43dc57 | Fixed file | - | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 6d6a87679fd2c7b12590bd8db010adec97a23ed7 | Improved navbar in mycars view | - | 04/06/2024 | 
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 5f00a49dee90f34c340c9d1de320436ce9b76fe8 | Improved navbar in home view | - | 04/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 049a25c7e9c89abd0757c949388f0ff74e07b3ad | In the welcome component, add sign-in and sign-up | - | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | c91673b7a4b2514cb92a019a6cd5e27244bdbf14 | Update welcome component | - | 03/06/2024 |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 35aeda6a232ad1fb1f8ce540b19b8b178b30cdfa | Cleaned code | - | 03/06/2024 |
 
 #### 7.2.1.4.	Testing Suite Evidence for Sprint Review.
 
