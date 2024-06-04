@@ -160,8 +160,22 @@ Se utilizó la herramienta github para el control de versiones y ciclo de vida d
 ### 7.2.1.	Sprint 1
 
 #### 7.2.1.1.	Sprint Planning 1.
+En esta sección se especificarán datos importantes del Sprint Planning Meeting
+
+| Sprint # | Sprint 1 |
+| -------- | -------- |
+
+| Sprint Planning Background |         |
+| -------------------------- | ------- |
+| Date | 2024-06-01 |
+| Time | 20:00 PM |
+| Location | Discord |
+| Prepared By | Miner Lozano |
+| Attendees (to planning meeting) | Leonardo Cesías / Leonardo Aquino / Toshiro Ysique |
+| Sprint n Velocity | 14 |
 
 #### 7.2.1.2.	Sprint Backlog 1.
+El objetivo de este sprint n1 es empezar a implementar el backend de aquíestro proyecto. Para ello, se ha dividido en 4 bounded context que serán detallados en el siguiente cuadro.
 
 #### 7.2.1.3.	Development Evidence for Sprint Review.
 
