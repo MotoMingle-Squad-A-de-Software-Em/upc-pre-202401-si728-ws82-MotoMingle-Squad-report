@@ -182,6 +182,11 @@ El objetivo de este sprint 1 es empezar a implementar el frontend, landing page 
 | US044 | Usuario visitante visualiza los features de la plataform | TA001 | Landing Page Features | Implementar sección features landing page | 3 | Cesías | Done |
 | US045 | Usuario visitante compara planes y precios | TA001 | Lading Page Planes | Implementar sección de planes y precios landing page | 3 | Cesías | Done |
 | US046 | Usuario visitante accede a información adicional en el footer | TA001 | Landing Page Footer | Implementar sección footer lading page | 3 | Cesías | Done |
+| US001 | Usuario se registra en la aplicación con usuario y contraseña | TA001 | Formulario de Login y Register | Mejorar los formularios de login y registro | 8 | Aquino | Done |
+| US002 | Usuario completa su registro con sus datos personales | TA001 | Implementar las validaciones | Mejorar las validaciones en la web de los formularios de login y register | 8 | Aquino | Done |
+| US006 <br> US007 <br> US008 | Usuario se suscribe a un plan Basic, Premium, Vip  | TA001 | Mejorar planes | Mejorar la administración de los planes  | 8 | Toshiro | In Process |
+| US009 <br> US010 <br> US011 | Publicar, editar, eliminar anuncio de alquiler de auto.  | TA001 | Mejorar sección de alquilar auto | Mejorar las vistas de publicar, eliminar y editar anuncios de autos  | 8 | Toshiro | In Process |
+| US16 | Usuario arrendatario recibe notificaciones de sus alquileres | TA001 | Reimplementar Twilio y mejorar las noficaciones para los usuarios | 8 | Cesías | In Process |
 
 #### 7.2.1.3.	Development Evidence for Sprint Review.
 En esta parte del trabajo se presenta commits realizados por los miembros del equipo durante el sprint 1.  
