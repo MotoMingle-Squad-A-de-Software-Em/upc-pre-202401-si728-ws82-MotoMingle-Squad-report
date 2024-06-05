@@ -216,14 +216,46 @@ Se presenta la tabla de commits con mayor relevancia:
 | MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 35aeda6a232ad1fb1f8ce540b19b8b178b30cdfa | Cleaned code | - | 03/06/2024 |
 
 #### 7.2.1.4.	Testing Suite Evidence for Sprint Review.
+Empleando la herramienta de Gherkin, se realizó los siguientes tests.  
+[![image.png](https://i.postimg.cc/59pbWkG5/image.png)](https://postimg.cc/0r6LpZ9r)
 
 #### 7.2.1.5.	Execution Evidence for Sprint Review.
+Esta sección se mostrarán imágenes de las principales vistas implementadas en el Landing Page y Web Application.  
+
+**Landing Page:**  
+Link: [https://motomingle-squad-a-de-software-em.github.io/LandingPage-RentCarAssist/](https://motomingle-squad-a-de-software-em.github.io/LandingPage-RentCarAssist/)
+
+[![image.png](https://i.postimg.cc/Qx47CmB1/image.png)](https://postimg.cc/N5XFP1kj)  
+[![image.png](https://i.postimg.cc/Cx9fHKsK/image.png)](https://postimg.cc/xXyC9n7r)
+
+**Web Application:**  
+
+*Login and Register:*  
+[![image.png](https://i.postimg.cc/T2bNryjK/image.png)](https://postimg.cc/F19xvHBv)  
+[![image.png](https://i.postimg.cc/vmjXnMc7/image.png)](https://postimg.cc/jWHzVp6C)  
+[![image.png](https://i.postimg.cc/C5pNvNCz/image.png)](https://postimg.cc/phkzrK6H)  
+*Sección Search Cars:*  
+[![image.png](https://i.postimg.cc/RFK1ntr9/image.png)](https://postimg.cc/BLZPrXQw)  
+*Sección My Cars:*  
+[![image.png](https://i.postimg.cc/NjnRJDBB/image.png)](https://postimg.cc/bZQGdQZB)
 
 #### 7.2.1.6.	Services Documentation Evidence for Sprint Review.
+Para esta entrega no se considerará este punto ya que solo se ha desarrollado el lading page y el application web y no un servicio para documentarlo.
 
 #### 7.2.1.7.	Software Deployment Evidence for Sprint Review.
+Para esta entrega se ha trabajo el landing Page y la aplicación web, como también se ha desplegado en GitHub Page y Netlify respectivamente.
+
+**Landing page:**  
+[![image.png](https://i.postimg.cc/SKvqzX6Z/image.png)](https://postimg.cc/bGk47wFb)  
+**Web Application:**  
 
 #### 7.2.1.8.	Team Collaboration Insights during Sprint.
+En este sprint la participación de los miembros del grupo fue el siguiente:  
+**Landing page:**  
+[![image.png](https://i.postimg.cc/T2mGp3p9/image.png)](https://postimg.cc/z3J4Q5wb)
+
+**Web Application:**  
+[![image.png](https://i.postimg.cc/zXFrF2wH/image.png)](https://postimg.cc/svxqVcN3)
 
 ## 7.3.	Validation Interviews.
 
