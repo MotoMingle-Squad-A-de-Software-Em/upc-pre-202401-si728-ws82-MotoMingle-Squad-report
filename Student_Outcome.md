@@ -6,7 +6,13 @@
 | TP | 29/04/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se agregó el Attribute-Driven Design Inputs que faltaba de la anterior entrega, y se agregó todo lo incluido para la entrega de la TP |
 
 # Project Report Collaboration Insights
-La realización del informe se realizó en el formato Markdown, donde cada integrante subió sus avances, haciendo commit en el repositorio del [proyecto](https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report/tree/develop)
+URL del repositorio informe: [https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report](https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report)
+
+**Evidencia de la TP**
+
+Se evidencia las constribuciones hecha en la rama main hasta el día 4-05-2024  
+[![image.png](https://i.postimg.cc/MHH6wr25/image.png)](https://postimg.cc/30M5C1w0)  
+[![image.png](https://i.postimg.cc/MHLWpbzS/image.png)](https://postimg.cc/7JgvBzCs)
 
 # STUDENT OUTCOME
 
