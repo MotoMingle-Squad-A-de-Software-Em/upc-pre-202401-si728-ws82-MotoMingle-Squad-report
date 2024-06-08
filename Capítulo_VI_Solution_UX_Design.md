@@ -249,3 +249,122 @@ Para realizar la calificación de un vehículo se deberá haber reservado un veh
 
 ![](Resources/images/mobile/rateUp.png)
 
+### 6.4.3. Applications Mock-ups.
+#### 6.4.3.1 Applications Mock-ups (Web).
+**Sección de inicio de sesión y registro en página de bienvenida:**  
+En esta sección el usuario está en la página de bienvenida donde puede ver toda la información sobre RentCarAssit y puede iniciar sesión desde esa sección e ingresar a su cuenta, pero si no posee una cuenta con la que puede iniciar sesion, puede registrarse desde esa seccion.  
+![](Resources/images/web-mock-ups/Bienvenida1.PNG)
+![](Resources/images/web-mock-ups/Bienvenida2.PNG)
+![](Resources/images/web-mock-ups/Bienvenida3.PNG)
+![](Resources/images/web-mock-ups/Bienvenida4.PNG)
+
+**Sección de registro de usuarios:**  
+En esta sección se puede ver el flujo del registro donde al inicio se debe ingresar datos generales del usuario, luego elegir qué tipo de usuario es, luego se le presentara la sección de ingreso de datos específicos dependiendo de que usuario haya escogido.  
+![](Resources/images/web-mock-ups/IniciarSesion.PNG)
+![](Resources/images/web-mock-ups/Registrar.PNG)
+![](Resources/images/web-mock-ups/Registrar2.PNG)
+
+**Sección de alquilar un automóvil:**  
+El usuario arrendador al momento de ingresar a su cuenta podrá ver una lista de autos en alquilar los que puede elegir, además de poder filtrar la búsqueda con sus gustos. Luego de seleccionar un carro, aparecerá la información más detallada y el costo del auto. Luego de haber realizado la selección del carro tendrá que realizar el pago por la cantidad de día que se alquilará el carro y se mostrar un mensaje de existo. Al final podra ver un listado de todos los autos que han alquilado.  
+![](Resources/images/web-mock-ups/Rentar.PNG)
+![](Resources/images/web-mock-ups/Rentar2.PNG)
+![](Resources/images/web-mock-ups/Rentar3.PNG)
+![](Resources/images/web-mock-ups/Rentar4.PNG)
+![](Resources/images/web-mock-ups/Rentar5.PNG)
+![](Resources/images/web-mock-ups/Rentar6.PNG)
+
+**Publicación de automóvil:**  
+En esta sección el usuario arrendador para poder publicar sus automóviles en alquiler debe seleccionar un plan de suscripción, y luego se tiene la posibilidad de realizar publicaciones de sus automoviles para alquilar y poder ver una lista de los autos que ha subido.  
+![](Resources/images/web-mock-ups/misautos.PNG)
+![](Resources/images/web-mock-ups/misautos2.PNG)
+![](Resources/images/web-mock-ups/misautos3.PNG)
+![](Resources/images/web-mock-ups/misautos4.PNG)
+![](Resources/images/web-mock-ups/misautos5.PNG)
+
+**Sección mis Rentas:**  
+En esta sección el usuario podrá visualizar sus autos que se encuentran en rentas, donde podrán visualizar ciertos detalles de lo autos, así como visualizar el estado en el cual se encuentren según su renta.  
+![](Resources/images/web-mock-ups/misrentas.PNG)
+
+**Sección mis reservas:**  
+En esta sección el usuario podrá visualizar sus autos que se encuentran en reserva, donde podrán visualizar ciertos detalles de lo autos, así como visualizar el estado en el cual se encuentren según su reserva.  
+![](Resources/images/web-mock-ups/misreservas.PNG)
+![](Resources/images/web-mock-ups/misreservas2.PNG)
+![](Resources/images/web-mock-ups/misreservas3.PNG)
+![](Resources/images/web-mock-ups/misreservas4.PNG)
+
+**Sección de mis mantenimientos:**  
+En esta sección el usuario tiene la posibilidad de gestionar los mantenimientos realizados en los vehículos de RentCarAssist y puede confirmar que el mantenimiento ya ha sido realizado para que el dueño de el vehículo pueda ser notificado.  
+![](Resources/images/web-mock-ups/mismantenimientos.PNG)
+![](Resources/images/web-mock-ups/mismantenimientos2.PNG)
+
+**Sección de estadísticas:**  
+En esta sección el usuario podrá visualizar las estadísticas de los ingresos y usos de la renta de su auto, para ello podrá elegir entre los 3 planes que nosotros contamos y poder realizar el pago de una de ellas, para así poder tener la visualización.  
+![](Resources/images/web-mock-ups/estadisticas.PNG)
+![](Resources/images/web-mock-ups/estadisticas2.PNG)
+![](Resources/images/web-mock-ups/estadisticas3.PNG)
+![](Resources/images/web-mock-ups/estadisticas4.PNG)
+
+#### 6.4.3.2 Applications Mock-ups (Mobile).
+### 6.4.4. Applications User Flow Diagrams.
+#### 6.4.4.1 Applications User Flow Diagrams (Web).
+**User Goal: Usuario se registra**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario registrándose en la página web, mostrando todos los posibles unhappy paths como ingresar un correo electrónico ya existente o error a subir una imagen para el perfil. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen.  
+![](Resources/images/web-mock-ups/userflow1.PNG)
+
+**User Goal: Usuario se registra mediante pantalla de bienvenida**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario se registra mediante la página de bienvenida, mostrando todos los posibles unhappy paths como ingresar un correo electrónico ya existente o error a subir una imagen para el perfil. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen hasta llegar a la selección de tipo de usuario donde pasaría al registro de datos específicos.  
+![](Resources/images/web-mock-ups/userflow2.PNG)
+
+**User Goal: Usuario inicia sesion mediante pantalla de bienvenida**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario inicia sesión mediante la pantalla de bienvenida, mostrando todos los posibles unhappy paths como ingresar un usuario no existente o una contraseña que no coincida con el usuario. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen.  
+![](Resources/images/web-mock-ups/userflow3.PNG)
+
+**User Goal: Usuario arrendador publica un auto en alquiler**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendador publicando su auto en alquiler, mostrando todos los posibles unhappy paths como obtener un error al subir imágenes de su automovill. Y el happy path el cual es todas las acciones realzadas correctamente que se puede ver en el medio de la imagen.  
+![](Resources/images/web-mock-ups/userflow4.PNG)
+
+**User Goal: Usuario arrendatario califica a un arrendador**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendatario califica a un arrendador, mostrando como el arrendatario califica según su experiencia y poniendo comentarios a ello.  
+![](Resources/images/web-mock-ups/userflow5.PNG)
+
+**User Goal: Usuario arrendador visualiza las estadísticas de sus rentas**  
+En el siguiente User Flow Diagram se grafico el user goal del usuario arrendador visualiza las estadísticas de sus rentas , mostrando los posibles unhappy paths como cuando no se llenan los campos completos o en el caso de que haya ocurrido algún error en general así como el happy path que al ingresar los datos correctos y completos te redirige a la pantalla de estadísticas.  
+![](Resources/images/web-mock-ups/userflow6.PNG)
+
+**User Goal: Usuario arrendatario revisa sus rentas**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendatario revisa sus rentas, mostrando los posibles unhappy paths como cuando se obtiene un error en particular con el servidor o un problema de conexión y el happy path el cual nos lleva a la pantalla principal de las rentas.  
+![](Resources/images/web-mock-ups/userflow7.PNG)
+
+**User Goal: Usuario arrendatario revisa sus reservas**  
+En el siguiente User Flow Diagram se graficó el user goal del usuario arrendatario revisa sus rentas, mostrando los posibles unhappy paths como cuando se obtiene un error en particular con el servidor o un problema de conexión y el happy path el cual nos lleva a la pantalla principal de las reservas.  
+![](Resources/images/web-mock-ups/userflow8.PNG)
+
+#### 6.4.4.2 Applications User Flow Diagrams (Mobile).
+En cuanto a las wireflow o flujos de la aplicación en dispositivos móviles se tuvieron en cuenta las más principales las cuales son addCar o agregar un vehiculo a la palicación, rentCar o alquilar un carro desde la aplicación y rateUp o calificar un servicio dentro de la aplicación, a continuación presentamos los flujos:
+
+- Add Car
+El flujo de agregar un vehículo como dueño de vehículos inicia en la vista de login donde el usuario o se registra como dueño de vehículos o inicia sesión directamente, seguido de ello pasa a la vista princial y deberá presionar el botón de vehículo el cual lo llevará al apartado de mis vehiculos y en caso este no posea un vehiculo le aparecerá un botón al medio para agregar uno y deberá llenar los campos solicitados para su publicación en la aplicación.
+
+![](Resources/images/mobile/addCarMockUp.png)
+
+- Rent Car
+Para realizar la acción de alquilar un vehículo se necesita una cuenta de renter o persona que busca alquilar un vehículo, el flujo inicia en la vista de login donde el usuario o se registra como un renter o inicia sesión directamente, seguido pasa a la vista principal y deberá presionar la lupa para iniciar la búsqueda de un vehículo, identificar uno que sea de su preferencia y presionar más detalles, esto mostrará los detalles del vehículo y si es de su gusto podrá alquilarlo con el botón inferior dentro de los detalles de vehículo.
+
+![](Resources/images/mobile/rentCarMockUp.png)
+
+- Rate Up
+Para realizar la calificación de un vehículo se deberá haber reservado un vehículo y que haya terminado su reservación. El flujo inicia en la vista de login donde el usuario o se registra como un renter o inicia sesión directamente, seguido pasa a la vista principal y deberá presionar el botón de vehículo donde le mostrará las reservaciones realizadas y deberá presionar el botón de rate up o calificar donde se mostrará un cuadro donde tendrá la posibilidad de poner estrellas y dejar un comentario si lo desea.
+
+![](Resources/images/mobile/rateUpMockUp.png)
+
+
+## 6.5. Applications Prototyping.
+**Prototype Web**  
+Se visualizará la explicación del prototipo de la aplicación web, mostrando las secciones más importantes para la aplicación.  
+[![Prototipo-web](https://img.youtube.com/vi/eX8iO46c-AA/0.jpg)](https://youtu.be/eX8iO46c-AA)
+
+**Prototype Mobile**
+
+Se realizó una desmotración del prototipo en forma de vídeo mostrando las diferentes vistas y estructura de la aplicación móvil.
+
+[![Mobile-prototype](https://img.youtube.com/vi/bQzBLwYhF4Q/0.jpg)]((https://youtu.be/bQzBLwYhF4Q))
