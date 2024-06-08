@@ -248,6 +248,7 @@ Para esta entrega se ha trabajo el landing Page y la aplicación web, como tambi
 **Landing page:**  
 [![image.png](https://i.postimg.cc/SKvqzX6Z/image.png)](https://postimg.cc/bGk47wFb)  
 **Web Application:**  
+[![evidence.jpg](https://i.postimg.cc/WbsdgJPn/evidence.jpg)](https://postimg.cc/nMwVtrrj)
 
 #### 7.2.1.8.	Team Collaboration Insights during Sprint.
 En este sprint la participación de los miembros del grupo fue el siguiente:  
