@@ -4,6 +4,7 @@
 | ------- | ----- | ----- | --------------------------- |
 | TB1 | 19/04/2024 | - Alvarado Mejía, Yeni Fiorella <br>- Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se crea el documento inicial, incluyendo todo lo presentado para la TB1 según la rúbrica. |
 | TP | 29/04/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se agregó el Attribute-Driven Design Inputs que faltaba de la anterior entrega, y se agregó todo lo incluido para la entrega de la TP |
+| TB2 | 08/06/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se realizó el avance del frontend y backend, guiandonos de los mockups establecidos anteriormente |
 
 # Project Report Collaboration Insights
 URL del repositorio informe: [https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report](https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report)
