@@ -174,46 +174,47 @@ En esta sección se especificarán datos importantes del Sprint Planning Meeting
 
 #### 7.2.1.2.	Sprint Backlog 1.
 El objetivo de este sprint 1 es empezar a implementar el frontend, landing page y backend de nuestro proyecto. Para ello, se ha dividido en 4 bounded context que serán detallados en el siguiente cuadro.  
-| Sprint # | Sprint 1 |      |     |      |       |       |         |
-| -------- | -------- | ---- | --- | ---- | ----- | ----- | ------- |
-| User Story |       | Work-Item / Task |       |    |     |      |        |
-| ID | Título | ID | Título | Description | Estimation (hours) | Assigned To | Status (To/do/ In Process / To-Review / Done) |
-| US043 | Usuario administrador añade un banner principal | TA001 | Lading Page Banner | Implementar banner landing page | 5 | Cesías | Done |
-| US044 | Usuario visitante visualiza los features de la plataform | TA001 | Landing Page Features | Implementar sección features landing page | 3 | Cesías | Done |
-| US045 | Usuario visitante compara planes y precios | TA001 | Lading Page Planes | Implementar sección de planes y precios landing page | 3 | Cesías | Done |
-| US046 | Usuario visitante accede a información adicional en el footer | TA001 | Landing Page Footer | Implementar sección footer lading page | 3 | Cesías | Done |
-| US001 | Usuario se registra en la aplicación con usuario y contraseña | TA001 | Formulario de Login y Register | Mejorar los formularios de login y registro | 8 | Aquino | Done |
-| US002 | Usuario completa su registro con sus datos personales | TA001 | Implementar las validaciones | Mejorar las validaciones en la web de los formularios de login y register | 8 | Aquino | Done |
-| US006 <br> US007 <br> US008 | Usuario se suscribe a un plan Basic, Premium, Vip  | TA001 | Mejorar planes | Mejorar la administración de los planes  | 8 | Toshiro | In Process |
-| US009 <br> US010 <br> US011 | Publicar, editar, eliminar anuncio de alquiler de auto.  | TA001 | Mejorar sección de alquilar auto | Mejorar las vistas de publicar, eliminar y editar anuncios de autos  | 8 | Toshiro | In Process |
-| US16 | Usuario arrendatario recibe notificaciones de sus alquileres | TA001 | Reimplementar Twilio y mejorar las noficaciones para los usuarios | 8 | Cesías | In Process |
+
+| Sprint #                    | Sprint 1                                                      |                  |                                                                   |                                                                           |                    |             |                                               |
+|-----------------------------|---------------------------------------------------------------|------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------|-------------|-----------------------------------------------|
+| User Story                  |                                                               | Work-Item / Task |                                                                   |                                                                           |                    |             |                                               |
+| ID                          | Título                                                        | ID               | Título                                                            | Description                                                               | Estimation (hours) | Assigned To | Status (To/do/ In Process / To-Review / Done) |
+| US043                       | Usuario administrador añade un banner principal               | TA001            | Lading Page Banner                                                | Implementar banner landing page                                           | 5                  | Cesías      | Done                                          |
+| US044                       | Usuario visitante visualiza los features de la plataform      | TA001            | Landing Page Features                                             | Implementar sección features landing page                                 | 3                  | Cesías      | Done                                          |
+| US045                       | Usuario visitante compara planes y precios                    | TA001            | Lading Page Planes                                                | Implementar sección de planes y precios landing page                      | 3                  | Cesías      | Done                                          |
+| US046                       | Usuario visitante accede a información adicional en el footer | TA001            | Landing Page Footer                                               | Implementar sección footer lading page                                    | 3                  | Cesías      | Done                                          |
+| US001                       | Usuario se registra en la aplicación con usuario y contraseña | TA001            | Formulario de Login y Register                                    | Mejorar los formularios de login y registro                               | 8                  | Aquino      | Done                                          |
+| US002                       | Usuario completa su registro con sus datos personales         | TA001            | Implementar las validaciones                                      | Mejorar las validaciones en la web de los formularios de login y register | 8                  | Aquino      | Done                                          |
+| US006 <br> US007 <br> US008 | Usuario se suscribe a un plan Basic, Premium, Vip             | TA001            | Mejorar planes                                                    | Mejorar la administración de los planes                                   | 8                  | Toshiro     | In Process                                    |
+| US009 <br> US010 <br> US011 | Publicar, editar, eliminar anuncio de alquiler de auto.       | TA001            | Mejorar sección de alquilar auto                                  | Mejorar las vistas de publicar, eliminar y editar anuncios de autos       | 8                  | Toshiro     | In Process                                    |
+| US16                        | Usuario arrendatario recibe notificaciones de sus alquileres  | TA001            | Reimplementar Twilio y mejorar las noficaciones para los usuarios | 8                                                                         | Cesías             | In Process  |
 
 #### 7.2.1.3.	Development Evidence for Sprint Review.
 En esta parte del trabajo se presenta commits realizados por los miembros del equipo durante el sprint 1.  
 En primer lugar, se mostrarán la cantidad total de commits de cada integrante del equipo, incluye fix, update.
 
-| Integrante | Landing Page |
-| ---------- | ------------ |
-| Cesías Díaz, Leonardo Paolo | 19 |
+| Integrante                  | Landing Page |
+|-----------------------------|--------------|
+| Cesías Díaz, Leonardo Paolo | 19           |
 
-| Integrantes | Web Application |
-| ----------- | --------------- |
-| Cesías Díaz, Leonardo Paolo | 37 |
-| Aquino Cruz, Leonardo José | 16 |
+| Integrantes                 | Web Application |
+|-----------------------------|-----------------|
+| Cesías Díaz, Leonardo Paolo | 37              |
+| Aquino Cruz, Leonardo José  | 16              |
 
 Se presenta la tabla de commits con mayor relevancia:  
 
-| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commited on Date |
-| ---------- | ------ | --------- | -------------- | ------------------- | ---------------- |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 86dbbc4eac6dfc008447176d12652dd5780a3f8c | Fixed paths | - | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | b0a64da29f4d083bd63a50e24537c1b9f359ce0b | Test | - | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 52793683f37c6dd5962ebe0f62de585bf29ad692 | Merge branch 'main' of https://github.com/MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | - | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main | 7feb148036590fc48b2c2e58d1a9965eaf43dc57 | Fixed file | - | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 6d6a87679fd2c7b12590bd8db010adec97a23ed7 | Improved navbar in mycars view | - | 04/06/2024 | 
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 5f00a49dee90f34c340c9d1de320436ce9b76fe8 | Improved navbar in home view | - | 04/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 049a25c7e9c89abd0757c949388f0ff74e07b3ad | In the welcome component, add sign-in and sign-up | - | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | c91673b7a4b2514cb92a019a6cd5e27244bdbf14 | Update welcome component | - | 03/06/2024 |
-| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits | develop | 35aeda6a232ad1fb1f8ce540b19b8b178b30cdfa | Cleaned code | - | 03/06/2024 |
+| Repository                                                  | Branch  | Commit id                                | Commit Message                                                                                        | Commit Message Body | Commited on Date |
+|-------------------------------------------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------|------------------|
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | 86dbbc4eac6dfc008447176d12652dd5780a3f8c | Fixed paths                                                                                           | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | b0a64da29f4d083bd63a50e24537c1b9f359ce0b | Test                                                                                                  | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | 52793683f37c6dd5962ebe0f62de585bf29ad692 | Merge branch 'main' of https://github.com/MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | 7feb148036590fc48b2c2e58d1a9965eaf43dc57 | Fixed file                                                                                            | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 6d6a87679fd2c7b12590bd8db010adec97a23ed7 | Improved navbar in mycars view                                                                        | -                   | 04/06/2024       | 
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 5f00a49dee90f34c340c9d1de320436ce9b76fe8 | Improved navbar in home view                                                                          | -                   | 04/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 049a25c7e9c89abd0757c949388f0ff74e07b3ad | In the welcome component, add sign-in and sign-up                                                     | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | c91673b7a4b2514cb92a019a6cd5e27244bdbf14 | Update welcome component                                                                              | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 35aeda6a232ad1fb1f8ce540b19b8b178b30cdfa | Cleaned code                                                                                          | -                   | 03/06/2024       |
 
 #### 7.2.1.4.	Testing Suite Evidence for Sprint Review.
 Empleando la herramienta de Gherkin, se realizó los siguientes tests.  
@@ -229,6 +230,108 @@ Link: [https://motomingle-squad-a-de-software-em.github.io/LandingPage-RentCarAs
 [![image.png](https://i.postimg.cc/Cx9fHKsK/image.png)](https://postimg.cc/xXyC9n7r)
 
 **Web Application:**  
+
+*Login and Register:*  
+[![image.png](https://i.postimg.cc/T2bNryjK/image.png)](https://postimg.cc/F19xvHBv)  
+[![image.png](https://i.postimg.cc/vmjXnMc7/image.png)](https://postimg.cc/jWHzVp6C)  
+[![image.png](https://i.postimg.cc/C5pNvNCz/image.png)](https://postimg.cc/phkzrK6H)  
+*Sección Search Cars:*  
+[![image.png](https://i.postimg.cc/RFK1ntr9/image.png)](https://postimg.cc/BLZPrXQw)  
+*Sección My Cars:*  
+[![image.png](https://i.postimg.cc/NjnRJDBB/image.png)](https://postimg.cc/bZQGdQZB)
+
+#### 7.2.1.6.	Services Documentation Evidence for Sprint Review.
+Para esta entrega no se considerará este punto ya que solo se ha desarrollado el lading page y el application web y no un servicio para documentarlo.
+
+#### 7.2.1.7.	Software Deployment Evidence for Sprint Review.
+Para esta entrega se ha trabajo el landing Page y la aplicación web, como también se ha desplegado en GitHub Page y Netlify respectivamente.
+
+**Landing page:**  
+[![image.png](https://i.postimg.cc/SKvqzX6Z/image.png)](https://postimg.cc/bGk47wFb)  
+**Web Application:**  
+[![evidence.jpg](https://i.postimg.cc/WbsdgJPn/evidence.jpg)](https://postimg.cc/nMwVtrrj)
+
+#### 7.2.1.8.	Team Collaboration Insights during Sprint.
+En este sprint la participación de los miembros del grupo fue el siguiente:  
+**Landing page:**  
+[![image.png](https://i.postimg.cc/T2mGp3p9/image.png)](https://postimg.cc/z3J4Q5wb)
+
+**Web Application:**  
+[![image.png](https://i.postimg.cc/zXFrF2wH/image.png)](https://postimg.cc/svxqVcN3)
+
+### 7.2.2.	Sprint 2
+En esta sección se especificarán datos importantes del Sprint Planning Meeting
+
+| Sprint #                        | Sprint 2                          |
+|---------------------------------|-----------------------------------|
+| Sprint Planning Background      |                                   |
+| Date                            | 2024-06-15                        |
+| Time                            | 20:00 PM                          |
+| Location                        | Discord                           |
+| Prepared By                     | Leonardo Cesías                   |
+| Attendees (to planning meeting) | Leonardo Cesías / Leonardo Aquino |
+| Sprint n Velocity               | 16                                |
+
+#### 7.2.1.2.	Sprint Backlog 2.
+El objetivo de este sprint 1 es empezar a implementar el frontend, landing page y backend de nuestro proyecto. Para ello, se ha dividido en 4 bounded context que serán detallados en el siguiente cuadro.  
+
+| Sprint #                     | Sprint 2                                                                 |                  |                                                                   |                                                                     |                    |             |                                               |
+|------------------------------|--------------------------------------------------------------------------|------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|--------------------|-------------|-----------------------------------------------|
+| User Story                   |                                                                          | Work-Item / Task |                                                                   |                                                                     |                    |             |                                               |
+| ID                           | Título                                                                   | ID               | Título                                                            | Description                                                         | Estimation (hours) | Assigned To | Status (To/do/ In Process / To-Review / Done) |
+| US003                        | Usuario registrado inicia sesión con su usuario y contraseña.            | TA001            | Log in                                                            | Implementar función de iniciar sesión en la aplicación              | 1                  | Cesías      | Done                                          |
+| US005                        | Como usuario quiero cerrar sesión del dispositivo en el que me encuentro | TA001            | Log out                                                           | Implementar cerrar sesión en la aplicación                          | 1                  | Cesías      | Done                                          |
+| US023                        | Usuario arrendatario alquila un auto de su preferencia                   | TA001            | Chose a car to rent                                               | Implementar lista de vehiculos a rentar                             | 3                  | Cesías      | Done                                          |
+| US029                        | Usuario arrendatario busca autos por ubicación y fechas                  | TA001            | Search a car by address or date                                   | Implementar funcionaidad de filtro                                  | 3                  | Cesías      | In process                                    |
+| US032                        | Usuario arrendatario visualiza los requisitos para el alquiler del auto  | TA001            | Requirements for rent a car                                       | Mostrar información de los vehiculos                                | 2                  | Cesías      | Done                                          |
+| IOT01                        | Herramienta IoT se comunica con el backend                               | TA001            | Iot tools working with backend                                    | Implementar IoT que funcione con el backend                         | 8                  | Cesías      | Done                                          |
+
+#### 7.2.1.3.	Development Evidence for Sprint Review.
+En esta parte del trabajo se presenta commits realizados por los miembros del equipo durante el sprint 1.  
+En primer lugar, se mostrarán la cantidad total de commits de cada integrante del equipo, incluye fix, update.
+
+| Integrante                  | Landing Page |
+|-----------------------------|--------------|
+| Cesías Díaz, Leonardo Paolo | 19           |
+
+| Integrantes                 | Frontend |
+|-----------------------------|----------|
+| Cesías Díaz, Leonardo Paolo | 72       |
+| Aquino Cruz, Leonardo José  | 4        |
+
+| Integrantes                 | Backend |
+|-----------------------------|---------|
+| Cesías Díaz, Leonardo Paolo | 27      |
+| Aquino Cruz, Leonardo José  | 9       |
+
+Se presenta la tabla de commits con mayor relevancia:
+
+| Repository                                                  | Branch  | Commit id                                | Commit Message                                                                                        | Commit Message Body | Commited on Date |
+|-------------------------------------------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------|------------------|
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | 86dbbc4eac6dfc008447176d12652dd5780a3f8c | Fixed paths                                                                                           | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | b0a64da29f4d083bd63a50e24537c1b9f359ce0b | Test                                                                                                  | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | 52793683f37c6dd5962ebe0f62de585bf29ad692 | Merge branch 'main' of https://github.com/MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/LandingPage-RentCarAssist | main    | 7feb148036590fc48b2c2e58d1a9965eaf43dc57 | Fixed file                                                                                            | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 6d6a87679fd2c7b12590bd8db010adec97a23ed7 | Improved navbar in mycars view                                                                        | -                   | 04/06/2024       | 
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 5f00a49dee90f34c340c9d1de320436ce9b76fe8 | Improved navbar in home view                                                                          | -                   | 04/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 049a25c7e9c89abd0757c949388f0ff74e07b3ad | In the welcome component, add sign-in and sign-up                                                     | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | c91673b7a4b2514cb92a019a6cd5e27244bdbf14 | Update welcome component                                                                              | -                   | 03/06/2024       |
+| MotoMingle-Squad-A-de-Software-Em/Frontend-RentCarAssits    | develop | 35aeda6a232ad1fb1f8ce540b19b8b178b30cdfa | Cleaned code                                                                                          | -                   | 03/06/2024       |
+
+#### 7.2.1.4.	Testing Suite Evidence for Sprint Review.
+Empleando la herramienta de Gherkin, se realizó los siguientes tests.  
+[![image.png](https://i.postimg.cc/59pbWkG5/image.png)](https://postimg.cc/0r6LpZ9r)
+
+#### 7.2.1.5.	Execution Evidence for Sprint Review.
+Esta sección se mostrarán imágenes de las principales vistas implementadas en el Landing Page y Web Application.
+
+**Landing Page:**  
+Link: [https://motomingle-squad-a-de-software-em.github.io/LandingPage-RentCarAssist/](https://motomingle-squad-a-de-software-em.github.io/LandingPage-RentCarAssist/)
+
+[![image.png](https://i.postimg.cc/Qx47CmB1/image.png)](https://postimg.cc/N5XFP1kj)  
+[![image.png](https://i.postimg.cc/Cx9fHKsK/image.png)](https://postimg.cc/xXyC9n7r)
+
+**Web Application:**
 
 *Login and Register:*  
 [![image.png](https://i.postimg.cc/T2bNryjK/image.png)](https://postimg.cc/F19xvHBv)  
