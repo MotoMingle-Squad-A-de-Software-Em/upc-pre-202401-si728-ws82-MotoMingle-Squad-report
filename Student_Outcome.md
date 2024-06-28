@@ -4,6 +4,8 @@
 | ------- | ----- | ----- | --------------------------- |
 | TB1 | 19/04/2024 | - Alvarado Mejía, Yeni Fiorella <br>- Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se crea el documento inicial, incluyendo todo lo presentado para la TB1 según la rúbrica. |
 | TP | 29/04/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se agregó el Attribute-Driven Design Inputs que faltaba de la anterior entrega, y se agregó todo lo incluido para la entrega de la TP |
+| TB2 | 25/05/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se corrigió los errores en la aplicación web, se implementó el welcome page y las secciones de agregar auto y mirar tus autos rentados. |
+| TF | 27/06/2024 | - Aquino Cruz, Leonardo José <br>- Cesías Díaz, Leonardo Paolo <br>- Ysique Lopez, Toshiro | Se desarrolló la aplicación IoT y se implementó la conexión con el backend, se hizo las conexiones del backend al aplicación web. |
 
 # Project Report Collaboration Insights
 URL del repositorio informe: [https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report](https://github.com/MotoMingle-Squad-A-de-Software-Em/upc-pre-202401-si728-ws82-MotoMingle-Squad-report)
