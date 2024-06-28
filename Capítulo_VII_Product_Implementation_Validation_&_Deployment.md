@@ -559,6 +559,10 @@ La entrevista será estructurada en torno a la demostración de la aplicación, 
 5.2 Si tuviera que puntuar nuestra aplicación del 1 al 10, ¿qué puntuación le daría y por qué?  
 
 ### 7.3.2.	Registro de Entrevistas.
+**Nombre:** Oscar Zegarra  
+**Resumen:**  
+Oscar es un usuario cualquiera que quisiera rentar o poner a rentar su auto, le interesó la página web por su sencillez a la hora de explorar, y le agrada visualmente la plataforma, también menciona que le gusta la información esencial que se le da en el landing page.  
+[![Alt text](https://img.youtube.com/vi/zK0ml-YgtbY/0.jpg)](https://youtu.be/zK0ml-YgtbY)
 
 ### 7.3.3.	Evaluaciones según heurísticas.
 **SITE o APP A EVALUAR:**  
