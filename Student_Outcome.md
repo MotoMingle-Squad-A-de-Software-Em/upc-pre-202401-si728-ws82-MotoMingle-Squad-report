@@ -22,6 +22,12 @@ Se evidencia las contribuciones hecha en la rama main hasta el dia 8-06-2024
 [![evidence1.png](https://i.postimg.cc/fyqQVFN1/evidence1.png)](https://postimg.cc/N2XzVdLx)  
 [![evidence2.png](https://i.postimg.cc/PfSjVLwK/evidence2.png)](https://postimg.cc/Th5Fp3QW)
 
+**Evidencia de la TF**
+
+Se evidencia las contribuciones hecha en la rama main hasta el dia 27-06-2024  
+[![evidencia-tf-1.png](https://i.postimg.cc/tT3f4YYD/image.png)](https://postimg.cc/G8pzM3Ps)  
+[![evidencia-tf-2.png](https://i.postimg.cc/Y0tPGMF7/image.png)](https://postimg.cc/ph1C3Nkc)
+
 # STUDENT OUTCOME
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
