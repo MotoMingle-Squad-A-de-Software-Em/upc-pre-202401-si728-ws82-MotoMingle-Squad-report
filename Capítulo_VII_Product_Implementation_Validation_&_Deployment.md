@@ -536,8 +536,27 @@ En este sprint la participación de los miembros del grupo fue el siguiente:
 [![image.png](https://i.postimg.cc/zXFrF2wH/image.png)](https://postimg.cc/svxqVcN3)
 
 ## 7.3.	Validation Interviews.
+En está sección se presentará el diseño y las entrevistas realizadas en base al producto realizado.
 
 ### 7.3.1.	Diseño de Entrevistas.
+La entrevista será estructurada en torno a la demostración de la aplicación, donde el entrevistado explorará la aplicación mientras el entrevistador realiza preguntas sobre la experiencia. 
+
+**Preguntas principales y complementarias**  
+**Introducción a la aplicación**  
+1.1 ¿Podría decirme cuál es su primera impresión de la aplicación basándose en la pantalla inicial?  
+1.2 ¿Se siente claro sobre cómo navegar y utilizar la aplicación?  
+**Funcionalidad de alquiler**  
+2.1 Ahora, por favor explore la funcionalidad de alquiler de la aplicación. ¿Cómo le parece la experiencia de búsqueda y selección de un inmueble para alquilar?  
+2.2 ¿Cómo fue su experiencia con el proceso de reserva? ¿Encontró algún obstáculo o algo que le resultara confuso?  
+**Funcionalidad de mantenimiento técnico**  
+3.1 Ahora pruebe la funcionalidad de mantenimiento técnico. ¿Es intuitivo solicitar un servicio de mantenimiento?  
+3.2 ¿Cómo fue su experiencia con el seguimiento del estado de su solicitud de mantenimiento?  
+**Interfaz y experiencia de usuario**  
+4.1 En general, ¿cómo describiría la facilidad de uso de la aplicación?  
+4.2 ¿Encontró algún problema o frustración mientras exploraba las diferentes características de la aplicación?  
+**Sugerencias y retroalimentación**  
+5.1 ¿Hay algo que le gustaría que se agregue o se mejore en la aplicación?  
+5.2 Si tuviera que puntuar nuestra aplicación del 1 al 10, ¿qué puntuación le daría y por qué?  
 
 ### 7.3.2.	Registro de Entrevistas.
 
