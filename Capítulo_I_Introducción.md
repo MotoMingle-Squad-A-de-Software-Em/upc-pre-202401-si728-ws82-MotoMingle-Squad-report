@@ -15,11 +15,6 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 
 ### 1.1.2. Perfiles de integrantes del equipo.
 
-#### Yeni Fiorella Alvarado Mejía
-![Yeni](Resources/images/Yeni.jpeg)
-
-+ Soy estudiante de ingeniería de software en octavo ciclo, tengo experiencia en el desarrollo de aplicaciones web y móviles. Soy empática, colaborativa y estoy comprometida con el aprendizaje continuo. Mi capacidad para trabajar en equipo es una de mis principales fortalezas.
-
 #### Leonardo José Aquino Cruz
 ![leonardo.jpg](https://i.postimg.cc/PqYZ9FZb/leonardo.jpg)](https://postimg.cc/KKcRgf04)
 
@@ -29,11 +24,6 @@ MotoMingle-Squad es una empresa que se dedica al desarrollo de software en el se
 <img src="Resources/images/leonardo.jpg" width="300" height="400">  
 
 + Mi nombre es Leonardo Paolo Cesías Díaz y estudio la carrera de Ingeniería de Software, ya que poseo interés por la tecnología. Mis principales hobbies son los videojuegos y conocer nuevas tecnologías. Mi disponibilidad y actitud de servicio frente a cualquier situación son mis principales cualidades que aportarán al grupo. Además de mis conocimientos en programación.
-
-#### Toshiro Ysique Lopez
-[![image.png](https://i.postimg.cc/hvYcNpKR/image.png)](https://postimg.cc/Pv1gwbLS)
-
-+ Mi nombre es Toshiro Ysique Lopez y estoy en el octavo ciclo de la carrera de Ingeniería de Software. Tengo un profundo interés en la tecnología, lo que me ha llevado a especializarme en el desarrollo de aplicaciones web y móviles. Soy conocido por mi capacidad de trabajar eficazmente en equipo y por mi actitud empática y de servicio, cualidades que me permiten colaborar efectivamente y enfrentar cualquier desafío con una mentalidad abierta. Me comprometo con el aprendizaje continuo y busco constantemente mejorar mis habilidades en programación y colaboración para contribuir de manera significativa en cualquier proyecto o equipo.
 
 ## 1.2. Solution Profile.
 ### 1.2.1 Antecedentes y problemática.
@@ -116,33 +106,33 @@ Features
 11. Resolveremos esto a través del afianzamiento de los clientes mediante promociones y descuentos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-|Descripción|Creemos que, si ofrecemos una opción de pago seguro a través de la aplicación, los usuarios se sentirán más cómodos al alquilar un vehículo.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 20% en el número de usuarios que utilizan la función de pago en la aplicación.|
+| Descripción | Creemos que, si ofrecemos una opción de pago seguro a través de la aplicación, los usuarios se sentirán más cómodos al alquilar un vehículo. |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 20% en el número de usuarios que utilizan la función de pago en la aplicación.                                                |
 
-|Descripción|Creemos que, al ofrecer descuentos para alquileres de larga duración, los usuarios se sentirán incentivados a utilizar la aplicación con mayor frecuencia.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 15% en el número de usuarios que alquilan vehículos por un periodo mayor a 7 días.|
+| Descripción | Creemos que, al ofrecer descuentos para alquileres de larga duración, los usuarios se sentirán incentivados a utilizar la aplicación con mayor frecuencia. |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 15% en el número de usuarios que alquilan vehículos por un periodo mayor a 7 días.                                                          |
 
-|Descripción|Sabremos que los usuarios confían en la calidad de los vehículos disponibles para alquilar si incluimos fotografías detalladas y reseñas de otros usuarios.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 10% en el número de usuarios que alquilan un vehículo basado en fotografías y reseñas.|
+| Descripción | Sabremos que los usuarios confían en la calidad de los vehículos disponibles para alquilar si incluimos fotografías detalladas y reseñas de otros usuarios. |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 10% en el número de usuarios que alquilan un vehículo basado en fotografías y reseñas.                                                       |
  
-|Descripción|Creemos que, si agregamos un sistema de calificación para los arrendatarios y arrendadores, los usuarios se sentirán más cómodos al alquilar y prestar sus vehículos.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 15% en el número de usuarios que alquilan o prestan vehículos a través de la aplicación.|
+| Descripción | Creemos que, si agregamos un sistema de calificación para los arrendatarios y arrendadores, los usuarios se sentirán más cómodos al alquilar y prestar sus vehículos. |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 15% en el número de usuarios que alquilan o prestan vehículos a través de la aplicación.                                                               |
 
-|Descripción|Creemos que, si ofrecemos un servicio de mecánica de emergencia a través de la aplicación, los usuarios estarán más dispuestos a alquilar un vehículo.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 10% en el número de usuarios que alquilan un vehículo.|
+| Descripción | Creemos que, si ofrecemos un servicio de mecánica de emergencia a través de la aplicación, los usuarios estarán más dispuestos a alquilar un vehículo. |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 10% en el número de usuarios que alquilan un vehículo.                                                                                  |
 
-|Descripción|Sabremos que los usuarios están satisfechos con el proceso de alquiler si les solicitamos una calificación y reseña después de cada alquiler.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 10% en el número de calificaciones y reseñas realizadas por los usuarios después de cada alquiler.|
+| Descripción | Sabremos que los usuarios están satisfechos con el proceso de alquiler si les solicitamos una calificación y reseña después de cada alquiler. |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 10% en el número de calificaciones y reseñas realizadas por los usuarios después de cada alquiler.                             |
 
-|Descripción|Creemos que, si ofrecemos una opción para cancelar la reserva sin cargo dentro de un plazo de 24 horas, los usuarios estarán más dispuestos a reservar a través de la aplicación.|
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Métrica|Incremento del 15% en el número de reservas realizadas a través de la aplicación.|
+| Descripción | Creemos que, si ofrecemos una opción para cancelar la reserva sin cargo dentro de un plazo de 24 horas, los usuarios estarán más dispuestos a reservar a través de la aplicación. |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Métrica     | Incremento del 15% en el número de reservas realizadas a través de la aplicación.                                                                                                 |
 
 #### 1.2.2.4. Lean UX Canvas.
 ![Lean UX Canvas Elaborado](Resources/images/Lean-UX-Canvas.png)
