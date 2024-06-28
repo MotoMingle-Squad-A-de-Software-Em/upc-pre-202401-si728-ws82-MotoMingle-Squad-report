@@ -561,6 +561,57 @@ La entrevista será estructurada en torno a la demostración de la aplicación, 
 ### 7.3.2.	Registro de Entrevistas.
 
 ### 7.3.3.	Evaluaciones según heurísticas.
+**SITE o APP A EVALUAR:**  
+**RentCarAssits-Web Application**  
+**TAREAS A EVALUAR:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+1. Registro de un usuario owner
+2. Flujo de publicación de un vehiculo
+3. Flujo de edición de vehículos
+4. Visualización de pedidos de alquiler
+5. Flujo de aceptación o denegación de pedidos de alquiler
+6. Registro de un usuario renter
+7. Flujo de reserva de vehículos
+8. Visualización de los diferentes vehículos disponibles 
+  
+No están incluidas en esta versión de la evaluación las siguientes tareas: 
+1. Flujo como usuario Mecánico
+2. Flujo de Pago
+3. Flujo de Suscripciones  
+
+**ESCALA DE SEVERIDAD:**  
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+| Nivel | Descripción |
+| ----- | ----------- |
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento |
+
+| #   | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| --- | -------- | ------------------- | ------------------------------- |
+| 1 | Contraseña al momento de log-in | 2 | Ayuda y documentación |
+| 2 | Se puede editar el estado del pedido de renta desde la vista de Renter | 3 | Consistencia y estándares |
+| 3 | Se puede crear el mismo vehiculo varias veces. | 3 | Consistencia y estándares |
+
+**DESCRIPCIÓN DE PROBLEMAS:**  
+PROBLEMA #1: Contraseña al momento de log-in  
+Severidad: 2  
+Heurística violada: Usabilidad - Ayuda y documentación  
+Problema: Al momento de ingresar la contraseña para poder ingresar a la aplicación, se muestra un cuadro que valida si la contraseña es fuerte o debil, el cual no deberia estar en la seccion de log-in.  
+Recomendación: La más práctica es que se retire ese cuadro del formulario de login.  
+
+PROBLEMA #2: Se puede editar el estado del pedido de renta desde la vista de Renter  
+Severidad: 3  
+Heurística violada: Consistencia y estándares  
+Problema: En la vista del usuario Renter, la lista que muestra los pedidos de renta tienen opcion para ser editadas, lo cual no deberia ser posible ya que el unico que puede editarlas es el usuario Owner.  
+Recomendación: La más práctica es que se retiren los botones para aceptar o denegar el pedido de renta.  
+
+PROBLEMA #3: Se puede crear el mismo vehiculo varias veces.  
+Severidad: 3  
+Heurística violada: Consistencia y estándares  
+Problema: Al momento de rellenar el formulario para crear un auto, y enviarlo, se puede dar clicks varias veces al boton de enviar lo que ocasiona que se cree el vehículo varias veces.  
+Recomendación: Deshabilitar el botón de envió hasta que el servicio Backend responda con un estatus 200 o 400.
 
 ## 7.4.	Video About-the-Product.
 [![Alt text](https://img.youtube.com/vi/3K8ykC2wiNU/0.jpg)](https://youtu.be/3K8ykC2wiNU)
