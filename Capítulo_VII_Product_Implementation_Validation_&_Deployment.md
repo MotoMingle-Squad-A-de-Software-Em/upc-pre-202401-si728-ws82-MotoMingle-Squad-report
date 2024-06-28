@@ -548,6 +548,11 @@ En este sprint la participación de los miembros del grupo fue el siguiente:
 
 # Conclusiones.
 ## Conclusiones y recomendaciones.
+- Para hallar los temas para el proyecto, se tuvo que investigar de gran medida para poder obtenerlo, se tuvo que averiguar que problematica existen en la actualidad y que podemos hacer para solucionarlo.
+- Se identificó la problemática, se identificó los competidores, nuestras fortalezas y debilidades, como también estrategias que podemos usar para afrontarlo, a la par que analizamos las entrevistas realizadas.
+- Se desarrollo el style guideline para una mejor entendimiento de las cosas que se debe incluir en el proyecto, como también los diseños y el protito de aquellos.
+- Con la implementación de la aplicación web, backend y el iot, hemos comprendido la importancia de aquellos y entender como implementarlo para nuestros futuros proyectos.
+- La realización de la aplicación IoT fue para comprender y conseguir los datos que es necesario para el proyecto, aprendiendo sobre sensores y reconociendo las conexiones de los distintos dispositivos en la simulación.
 
 ## Video About-the-Team.
 [![Alt text](https://img.youtube.com/vi/BisJ7ZMy5us/0.jpg)](https://youtu.be/BisJ7ZMy5us)
