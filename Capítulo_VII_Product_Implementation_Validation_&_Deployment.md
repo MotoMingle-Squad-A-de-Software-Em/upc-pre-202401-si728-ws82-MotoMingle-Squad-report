@@ -544,3 +544,10 @@ En este sprint la participación de los miembros del grupo fue el siguiente:
 ### 7.3.3.	Evaluaciones según heurísticas.
 
 ## 7.4.	Video About-the-Product.
+[![Alt text](https://img.youtube.com/vi/3K8ykC2wiNU/0.jpg)](https://youtu.be/3K8ykC2wiNU)
+
+# Conclusiones.
+## Conclusiones y recomendaciones.
+
+## Video About-the-Team.
+[![Alt text](https://img.youtube.com/vi/BisJ7ZMy5us/0.jpg)](https://youtu.be/BisJ7ZMy5us)
